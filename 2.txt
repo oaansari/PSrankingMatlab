@@ -1,0 +1,1934 @@
+
+Close	Web of Science
+Page 2 (Records 51 -- 100)
+Previous Page [ 1 | 2 | 3 | 4 ] Next Page
+Print this Page
+Record 51 of 162
+Title: Hierarchical Decentralized Control for Enhanced Rotor Angle and Voltage Stability of Large-Scale Power Systems
+Author(s): Shukla, S (Shukla, Srivats); Mili, L (Mili, Lamine)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4783-4793  DOI: 10.1109/TPWRS.2017.2686427  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 44
+Abstract: Several hierarchical centralized control schemes for either rotor angle or voltage stability improvement have been proposed in the literature. They all rely on exchanging information between different subsystems of a large-scale power system. By contrast, in this paper, we propose a hierarchical decentralized control scheme to enhance a unified manner rotor angle and voltage stability while using metered values collected within each subsystem, without any exchange of information between subsystems. Specifically, weakly coupled coherent areas of a power system are first determined. Then, secondary control agents are implemented in each of them to detect and damp rotor angle and voltage instabilities using local synchrophasor measurements. Decentralized control laws based on Lyapunov theory are implemented on FACTS devices for achieving global rotor angle asymptotic stability. Finally, a tertiary voltage control agent provides reference settings to the secondary voltage agents and takes control actions in case the latter fail to damp voltage instabilities. We show that the proposed scheme minimizes the communication bandwidth requirement while exhibiting a system-wide situational awareness. Simulations carried out on the IEEE 118-bus system demonstrate the effectiveness of the proposed hierarchical decentralized control method.
+Accession Number: WOS:000413247800051
+Language: English
+Document Type: Article
+Author Keywords: Hierarchical decentralized control; Lyapunov's second method; multi-agent systems; Weak coupling
+KeyWords Plus: ENGINEERING APPLICATIONS; MULTIAGENT SYSTEMS; PART I; OSCILLATIONS; COLLAPSE; DESIGN
+Addresses: [Shukla, Srivats; Mili, Lamine] Virginia Tech, Bradley Dept Elect & Comp Engn, Falls Church, VA 22043 USA.
+Reprint Address: Shukla, S (reprint author), Virginia Tech, Bradley Dept Elect & Comp Engn, Falls Church, VA 22043 USA.
+E-mail Addresses: srivats@vt.edu; lmili@vt.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 11
+Open Access: No
+Output Date: 2017-11-14
+Record 52 of 162
+Title: A Nonlinear State Estimator-Based Decentralized Secondary Voltage Control Scheme for Autonomous Microgrids
+Author(s): Gu, W (Gu, Wei); Lou, GN (Lou, Guannan); Tan, W (Tan, Wen); Yuan, XD (Yuan, Xiaodong)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4794-4804  DOI: 10.1109/TPWRS.2017.2676181  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 36
+Abstract: This study proposes a fully decentralized secondary voltage control scheme which employs the state estimation method in autonomous microgrids. Based on a large-signal dynamic model of a microgrid, a linear parameter varying based state estimator that is localized in each distributed generation (DG) unit serves as an alternative communication role and obtains the dynamics of the other DG units independently. A linear matrix inequality formulation for pole placement condition is derived for the state estimator design. A decentralized secondary voltage controller is, thus, able to achieve accurate reactive power sharing and average voltage restoration without any additional communication links. Our approach offers superior reliability, flexibility, and economic efficiency because of the irrelevance of communications to its performance, which is essential when conventional centralized or distributed methods are likely to yield towards poor performance or even instability under communication latency or data drop-out conditions. Simulation results that verify the effectiveness of the proposed methodology are provided.
+Accession Number: WOS:000413247800052
+Language: English
+Document Type: Article
+Author Keywords: Autonomous microgrids; average voltage restoration; decentralized secondary control; reactive power sharing; state estimation
+KeyWords Plus: ISLANDED MICROGRIDS; CONTROL STRATEGY; HIERARCHICAL CONTROL; DESIGN; AC
+Addresses: [Gu, Wei; Lou, Guannan] Southeast Univ, Sch Elect Engn, Nanjing 210096, Jiangsu, Peoples R China. 
+[Tan, Wen] North China Elect Power Univ, Sch Control & Comp Engn, Beijing 102206, Peoples R China. 
+[Yuan, Xiaodong] Jiangsu Elect Power Res Inst, Power Distribut Dept, Nanjing 211103, Jiangsu, Peoples R China.
+Reprint Address: Gu, W (reprint author), Southeast Univ, Sch Elect Engn, Nanjing 210096, Jiangsu, Peoples R China.
+E-mail Addresses: wgu@seu.edu.cn; guannan_lou@seu.edu.cn; wtan@ncepu.edu.cn; lannyyuan@hotmail.com
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 11
+Funding:
+Funding Agency	Grant Number
+National Science Foundation of China 	
+51477029 
+National Key Research and Development Program of China 	
+2016YFB0900404 
+Natural Science Foundation of Jiangsu Province 	
+BK20160674 
+Fundamental Research Funds for the Central Universities of China 	
+KYLX16_0211 
+State Grid Corporation of China 	 
+This work was supported in part by the National Science Foundation of China under Grant 51477029, in part by the National Key Research and Development Program of China under Grant 2016YFB0900404, in part by the Natural Science Foundation of Jiangsu Province under Grant BK20160674, the Fundamental Research Funds for the Central Universities of China under Grant KYLX16_0211, and in part by the State Grid Corporation of China. Paper no. TPWRS-01273-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 53 of 162
+Title: Multistage Security-Constrained HVAC/HVDC Transmission Expansion Planning With a Reduced Search Space
+Author(s): Dominguez, AH (Hernando Dominguez, Andres); Macedo, LH (Macedo, Leonardo H.); Escobar, AH (Hernando Escobar, Antonio); Romero, R (Romero, Ruben)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4805-4817  DOI: 10.1109/TPWRS.2017.2669323  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 4
+Usage Count (Since 2013): 4
+Cited Reference Count: 20
+Abstract: This paper proposes a new method to solve the multistage security-constrained transmission expansion planning problem, incorporating lines based on high-voltage alternating current (HVAC) and high-voltage direct current (HVDC) alternatives. A novel mixed-integer linear programming model, which incorporates transmission losses using a piecewise linearization, is presented. An efficient method to reduce the search space of the problem is developed to help in the solution process. Garver's 6-bus system and a modified Southern Brazilian system are used to show the precision and efficiency of the proposed approach. The tests are performed for cases with and without HVDC links and transmission losses. The results indicate that better expansion plans can be found by considering HVDC proposals in the expansion process. The promising trend of using HVDC lines in future networks to improve the reliability in the system is demonstrated.
+Accession Number: WOS:000413247800053
+Language: English
+Document Type: Article
+Author Keywords: HVDC lines; mixed-integer linear programming; multistage transmission expansion planning; power losses; security constraints
+KeyWords Plus: HVDC
+Addresses: [Hernando Dominguez, Andres; Hernando Escobar, Antonio] Technol Univ Pereira, Dept Elect Engn, Pereira 660003, Colombia. 
+[Macedo, Leonardo H.; Romero, Ruben] Sao Paulo State Univ, Dept Elect Engn, BR-15385000 Ilha Solteira, Brazil.
+Reprint Address: Dominguez, AH (reprint author), Technol Univ Pereira, Dept Elect Engn, Pereira 660003, Colombia.
+E-mail Addresses: andreshdominguez@gmail.com; leohfmp@gmail.com; aescobar@utp.edu.co; ruben@dee.feis.unesp.br
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 13
+Funding:
+Funding Agency	Grant Number
+Colombian agency COLCIENCIAS 	
+567-2012 
+CNPQ 	 
+CAPES 	 
+Sao Paulo Research Foundation 	
+2014/23741-9 
+This work was supported in part by the Colombian agency COLCIENCIAS under Grant 567-2012 and in part by the Brazilian agencies CNPQ, CAPES, and the Sao Paulo Research Foundation under Grant 2014/23741-9. Paper no. TPWRS-01304-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 54 of 162
+Title: A Line Flow Granular Computing Approach for Economic Dispatch With Line Constraints
+Author(s): Li, XP (Li, Xueping); Fang, LX (Fang, Liangxing); Lu, ZG (Lu, Zhigang); Zhang, JF (Zhang, Jiangfeng); Zhao, H (Zhao, Hao)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4832-4842  DOI: 10.1109/TPWRS.2017.2665583  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 45
+Abstract: Line flow calculation plays a critically important role to guarantee the stable operation of power system in economic dispatch (ED) problems with line constraints. This paper presents a line flow granular computing approach for power flow calculation to assist the investigation on ED with line constraints, where the hierarchy method is adopted to divide the power network into multiple layers to reduce computational complexity. Each layer contains granules for granular computing, and the layer network is reduced by Ward equivalent retaining the PV nodes and boundary nodes of tie lines to decrease the data dimension. Then, Newton-Raphson method is applied further to calculate the power line flows within the layer. This approach is tested on IEEE 39-bus and 118-bus systems. The testing results show that the granular computing approach can solve the line flow problem in 9.2 s for the IEEE 118-bus system, while the conventional AC method needs 44.56 s. The maximum relative error of the granular computing approach in line flow tests is only 0.43%, which is quite small and acceptable. Therefore, the case studies demonstrate that the proposed granular computing approach is correct, effective, and can ensure the accuracy and efficiency of power line flow calculation.
+Accession Number: WOS:000413247800054
+Language: English
+Document Type: Article
+Author Keywords: Granular computing; economic dispatch; ward equivalent; power flow calculation; hierarchy method
+KeyWords Plus: PARTICLE SWARM OPTIMIZATION; TIME EXTERNAL EQUIVALENTS; OPTIMAL POWER-FLOW; QUOTIENT SPACE; SYSTEM; ALGORITHM; NETWORK
+Addresses: [Li, Xueping; Fang, Liangxing; Lu, Zhigang; Zhao, Hao] Yanshan Univ, Key Lab Power Elect Energy Conservat & Motor Driv, Qinhuangdao 066004, Hebei, Peoples R China. 
+[Zhang, Jiangfeng] Univ Technol Sydney, Sch Elect Mech & Mechatron Syst, Sydney, NSW, Australia.
+Reprint Address: Li, XP (reprint author), Yanshan Univ, Key Lab Power Elect Energy Conservat & Motor Driv, Qinhuangdao 066004, Hebei, Peoples R China.
+E-mail Addresses: lixueping@ysu.edu.cn; 646898403@qq.com; zhglu@ysu.edu.cn; jiangfeng.zhang@uts.edu.au; zhaohaoysu@163.com
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 11
+Funding:
+Funding Agency	Grant Number
+National Natural Science Foundation of China 	
+61473246 
+Natural Science Foundation of Hebei Province 	
+E2015203294 
+Qinhuangdao Science and Technology Research and Development Program 	
+201502A010 
+China Postdoctoral Science Foundation 	
+2014M551049 
+This work was supported in part by the National Natural Science Foundation of China under Grant 61473246, in part by the Natural Science Foundation of Hebei Province under Grant E2015203294, in part by the Qinhuangdao Science and Technology Research and Development Program under Grant 201502A010, and in part by China Postdoctoral Science Foundation under Grant 2014M551049. Paper no. TPWRS-01335-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 55 of 162
+Title: A Method for Accurate Parameter Estimation of Series Compensated Transmission Lines Using Synchronized Data
+Author(s): Gajare, S (Gajare, Swaroop); Pradhan, AK (Pradhan, Ashok Kumar); Terzija, V (Terzija, Vladimir)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4843-4850  DOI: 10.1109/TPWRS.2017.2679542  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 44
+Abstract: Power system software used for analysis and dynamic simulation and relay settings require accurate model parameters of different elements for precise results. For this, transmission line parameter verification is necessary at times, which changes due to atmospheric condition and aging. This paper presents a method for estimating the parameters of series compensated line online using synchronized time-domain data captured by the intelligent electronic devices at both ends of the line, which is free of the compensation model. The method uses traveling waves generated during disturbance to obtain the propagation constant of the line, which is used to estimate the resistance and the characteristic impedance of the line. Subsequently, the inductance and capacitance of the line are calculated. The proposed method is tested using PSCAD/EMTDC simulation data of an actual series compensated line in Indian power grid. Results demonstrate the accuracy of the proposed method.
+Accession Number: WOS:000413247800055
+Language: English
+Document Type: Article
+Author Keywords: Electromagnetic transients; line parameter estimation; model verification; series compensated transmission lines; synchronized sampling
+KeyWords Plus: POSITIONAL PROTECTION; ONLINE ESTIMATION; PART I; ALGORITHMS; MATRICES; SIGNALS
+Addresses: [Gajare, Swaroop; Pradhan, Ashok Kumar] Indian Inst Technol, Dept Elect Engn, Kharagpur 721302, W Bengal, India. 
+[Terzija, Vladimir] Univ Manchester, Sch Elect & Elect Engn, Manchester M13 9PL, Lancs, England.
+Reprint Address: Gajare, S (reprint author), Indian Inst Technol, Dept Elect Engn, Kharagpur 721302, W Bengal, India.
+E-mail Addresses: swaroopgajare@ee.iitkgp.ernet.in; akpradhan@ee.iitkgp.ernet.in; Vladimir.Terzija@manchester.ac.uk
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 8
+Funding:
+Funding Agency	Grant Number
+Department of Science and Technology, New Delhi, India 	
+DST/RCUK/SEGES/ 2012/02 
+This work was supported by the Department of Science and Technology, New Delhi, India, through the project DST/RCUK/SEGES/ 2012/02. Paper no. TPWRS-01346-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 56 of 162
+Title: Identification of Modeling Boundaries for SSR Studies in Series Compensated Power Networks
+Author(s): Chen, WH (Chen, Wuhui); Wang, DH (Wang, Danhui); Xie, XR (Xie, Xiaorong); Ma, J (Ma, Jin); Bi, TS (Bi, Tianshu)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4851-4860  DOI: 10.1109/TPWRS.2017.2669402  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 22
+Abstract: Given large-scale power networks with series compensation, the study of subsynchronous resonance (SSR) is a significant challenge, in practice, due to the model complexity and computation burden. To tackle these difficulties, this paper proposes a method to reduce a large-scale system to an equivalent model using a metric called damping sensitivity index. The proposed metric can quantitatively identify the boundaries of the equivalent model that ensure the accurate studies of SSR and reduce the computation burdens greatly. The effectiveness of the method is verified by its application to the SSR investigation of the modified IEEE New England 10-machine 39-bus system and 16-machine 68-bus system. The equivalent models obtained by the proposed method are compared with the original systems in terms of driving point impedances, electrical damping, and transient torques. These results obtained show that the equivalent models from the proposed method can reproduce the SSR dynamics of the original systems with a much shorter computation time.
+Accession Number: WOS:000413247800056
+Language: English
+Document Type: Article
+Author Keywords: Damping sensitivity index (DSI); modeling boundary; series capacitor compensation; subsynchronous resonance (SSR)
+KeyWords Plus: SYSTEM
+Addresses: [Chen, Wuhui; Wang, Danhui] Univ Jiangsu, Sch Elect & Informat Engn, Zhenjiang 212013, Peoples R China. 
+[Xie, Xiaorong] Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China. 
+[Ma, Jin] Univ Sydney, Sch Elect & Informat Engn, Sydney, NSW 2006, Australia. 
+[Bi, Tianshu] North China Elect Power Univ, State Key Lab Alternate Elect Power Syst Renewabl, Beijing 102206, Peoples R China.
+Reprint Address: Xie, XR (reprint author), Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China.
+E-mail Addresses: whchen@mail.ujs.edu.cn; 1341675603@qq.com; xiexr@tsinghua.edu.cn; j.ma@sydney.edu.au; tsbi@ncepu.edu.cn
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+National Natural Science Foundation of China 	
+51277089 
+51322701 
+The work of W. Chen and D. Wang was supported in part by the National Natural Science Foundation of China under Grant 51277089. The work of X. Xie was supported in part by the National Natural Science Foundation of China under Grant 51322701. Paper no. TPWRS-01350-2016. (Corresponding author: X. Xie.)
+Open Access: No
+Output Date: 2017-11-14
+Record 57 of 162
+Title: A Multi-Platform Lab for Teaching and Research in Active Distribution Networks
+Author(s): Maza-Ortega, JM (Maria Maza-Ortega, Jose); Barragan-Villarejo, M (Barragan-Villarejo, Manuel); Garcia-Lopez, FD (de Paula Garcia-Lopez, Francisco); Jimenez, J (Jimenez, Juan); Mauricio, JM (Manuel Mauricio, Juan); Alvarado-Barrios, L (Alvarado-Barrios, Lazaro); Gomez-Exposito, A (Gomez-Exposito, Antonio)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4861-4870  DOI: 10.1109/TPWRS.2017.2681182  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 1
+Usage Count (Since 2013): 1
+Cited Reference Count: 30
+Abstract: Today's electricity paradigm requires that the notion of active distribution systems be introduced at both undergraduate and graduate curricula. This involves not only the customary theoretical foundations but also a suitable power engineering laboratory, where flexible enough and affordable resources allow students and researchers to carry out hands-on experiments reinforcing the concepts explained in the classroom. This paper describes the smart grid laboratory of the Power Engineering Group at the University of Seville, composed of a scaled-down distribution system, along with the required control and monitoring equipment, designed to help its users easily grasp the major influence that distributed generation and storage devices exert in the operation of medium-voltage distribution systems.
+Accession Number: WOS:000413247800057
+Language: English
+Document Type: Article
+Author Keywords: Active distribution systems; smart grids; power engineering curricula
+KeyWords Plus: POWER ENGINEERING-EDUCATION; DISTRIBUTION AUTOMATION; SMART GRIDS; SYSTEMS; DC; STATE; AC
+Addresses: [Maria Maza-Ortega, Jose; Barragan-Villarejo, Manuel; de Paula Garcia-Lopez, Francisco; Jimenez, Juan; Manuel Mauricio, Juan; Alvarado-Barrios, Lazaro; Gomez-Exposito, Antonio] Univ Seville, Dept Elect Engn, Seville 41004, Spain.
+Reprint Address: Maza-Ortega, JM (reprint author), Univ Seville, Dept Elect Engn, Seville 41004, Spain.
+E-mail Addresses: jmmaza@us.es; manuelbarragan@us.es; fdpgarcia@us.es; juanignacio82@gmail.com; jmmauricio6@gmail.com; lazalvbar@gmail.com; age@us.es
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+Spanish Ministry of Economy and Competitiveness 	 
+Junta de Andalucia 	 
+Universidad de Sevilla through Project PRICE-GDI 	
+IPT-2011-1501-920000 
+Universidad de Sevilla 	
+ENE2011-24137 
+ENE2014-54115-R 
+TEP-7411 
+VPPI-US 	 
+This work was supported by the Spanish Ministry of Economy and Competitiveness, Junta de Andalucia and Universidad de Sevilla through Projects PRICE-GDI (IPT-2011-1501-920000), ENE2011-24137, ENE2014-54115-R, TEP-7411, and VPPI-US. Paper no. TPWRS-01361-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 58 of 162
+Title: Holomorphic Embedding Load-Flow Modeling of Thyristor-Based FACTS Controllers
+Author(s): Basiri-Kejani, M (Basiri-Kejani, Mohsen); Gholipour, E (Gholipour, Eskandar)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4871-4879  DOI: 10.1109/TPWRS.2017.2682117  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 20
+Abstract: Development of appropriate load flow model of Flexible AC Transmission System (FACTS) devices is an important issue for proper planning, control, and protection of power system. Holomorphic Embedding Load-Flow Method (HELM) is a novel technique for solving load flow nonlinear equations which overcomes the numerical problems faced by traditional iterative techniques. In order to evaluate the effects of FACTS devices in load flow problem by HELM technique, it is necessary to develop HELM modeling of these devices. This paper presents HELM modeling of Thyristor-based FACTS controllers, i.e., Static Var Compensator (SVC), Thyristor Controlled Switched Capacitor (TCSC), Thyristor Controlled Voltage Regulator (TCVR), and Thyristor Controlled Phase Angle Regulator (TCPAR). In this modeling, white germ solution is investigated along with recursive formula and controlling FACTS devices operation bounds.
+Accession Number: WOS:000413247800058
+Language: English
+Document Type: Article
+Author Keywords: Analytic continuation; flexible AC transmission system; holomorphic embedding load-flow; Pade approximants; power series; white germ solution
+KeyWords Plus: PADE APPROXIMANTS; POWER-SYSTEMS; CONVERGENCE
+Addresses: [Basiri-Kejani, Mohsen; Gholipour, Eskandar] Univ Isfahan, Dept Elect Engn, Esfahan 8174673441, Iran.
+Reprint Address: Basiri-Kejani, M (reprint author), Univ Isfahan, Dept Elect Engn, Esfahan 8174673441, Iran.
+E-mail Addresses: moh3enbasiri@gmail.com; e.gholipour@eng.ui.ac.ir
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 9
+Open Access: No
+Output Date: 2017-11-14
+Record 59 of 162
+Title: Chance-Constrained Economic Dispatch With Non-Gaussian Correlated Wind Power Uncertainty
+Author(s): Wang, ZW (Wang, Zhiwen); Shen, C (Shen, Chen); Liu, F (Liu, Feng); Wu, XY (Wu, Xiangyu); Liu, CC (Liu, Chen-Ching); Gao, F (Gao, Feng)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4880-4893  DOI: 10.1109/TPWRS.2017.2672750  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 38
+Abstract: Extending traditional deterministic economic dispatch to incorporate significant stochastic wind power is an important but challenging task in today's power system decision making. In this paper, this issue is formulated as a chance-constrained economic dispatch (CCED) problem. Usually, in the presence of non-Gaussian correlated random variables, both the objective function and constraints are difficult to handle. To address this issue, this paper provides a novelmethod dealing with non-Gaussian random variables. First, the Gaussian mixture model is adopted to represent the joint probability density function of power output for multiple wind farms. Then, analytical formulae are derived that can be used for fast computation of partial derivatives of the objective function and transformation of chance constraints into linear ones. Thereafter, the CCED can be solved as a deterministic linear convex optimization with a global optimal solution. The effectiveness and efficiency of the proposed methodology are validated via a case study with a modified IEEE 39-bus system.
+Accession Number: WOS:000413247800059
+Language: English
+Document Type: Article
+Author Keywords: Chance-constrained economic dispatch; gaussian mixture model; probabilistic distribution; wind power uncertainty
+KeyWords Plus: PROBABILISTIC LOAD FLOW; PHOTOVOLTAIC GENERATION; CUMULANTS; RESERVE; SYSTEMS; DEMAND; ENERGY; MODEL
+Addresses: [Wang, Zhiwen; Shen, Chen; Liu, Feng; Wu, Xiangyu] Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China. 
+[Liu, Chen-Ching] Washington State Univ, Sch Elect Engn & Comp Sci, Pullman, WA 99164 USA. 
+[Gao, Feng] State Grid Ningxia Elect Power Co, Ningxia 750021, Peoples R China.
+Reprint Address: Wang, ZW (reprint author), Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China.
+E-mail Addresses: wang-zw13@mails.tsinghua.edu.cn; shenchen@mail.tsinghua.edu.cn; lfeng@mail.tsinghua.edu.cn; wuxiangyu639@163.com; liu@wsu.edu; GaofengNX@163.com
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 14
+Funding:
+Funding Agency	Grant Number
+National Natural Science Foundation of China 	
+51190103 
+Foundation for Innovative Research Groups of National Natural Science Foundation of China 	
+51621065 
+Special Fund of the National Basic Research Program (973 program) of China 	
+2013CB228201 
+State Grid Ningxia Electric Power Company 	
+5229DK14000Z 
+This work was supported in part by the National Natural Science Foundation of China under Grant 51190103, in part by the Foundation for Innovative Research Groups of National Natural Science Foundation of China under Grant 51621065, in part by the Special Fund of the National Basic Research Program (973 program) of China under Grant 2013CB228201, and in part by the State Grid Ningxia Electric Power Company under Grant 5229DK14000Z. Paper no. TPWRS-01380-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 60 of 162
+Title: Dynamic Control Allocation for Damping of Inter-Area Oscillations
+Author(s): Raoufat, ME (Raoufat, M. Ehsan); Tomsovic, K (Tomsovic, Kevin); Djouadi, SM (Djouadi, Seddik M.)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4894-4903  DOI: 10.1109/TPWRS.2017.2686808  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 38
+Abstract: Use of actuator redundancy to achieve higher reliability is a widely accepted engineering design technique and is used in this study to build resiliency and ensure power system stability in the presence of high levels of renewables. This paper presents a new design method for fault-tolerant wide-area damping controllers (WADCs) using modal-based control allocation (MB-CA), which coordinates a set of actuators to contribute to damping of inter-area oscillations. In our proposed method, when an actuator fails or is unavailable (e.g., due to communication failure), the supervisory MB-CA distributes the control signals to the remaining healthy actuators based on effects on the modal system, desired control actions, and actuator constraints. Our proposed block offers the benefits of modular design where it is independent of the nominal WADC. The proposed method consists of mainly two design steps. The first step is to design aWADC based on a fault-free model using robust control methods. The second step is to design an MB-CA to manage actuator availability and constraints. To validate the feasibility and demonstrate the design principles, a set of comprehensive case studies are conducted on a modified 192-bus Western Electricity Coordinating Council system. Numerical results verify the effectiveness of the proposed approach in ensuring resiliency to different actuator failures and actuator availability.
+Accession Number: WOS:000413247800060
+Language: English
+Document Type: Article
+Author Keywords: Low-frequency oscillations; damping controller; fault-tolerant control; modal-based control allocation; WECC
+KeyWords Plus: POWER-SYSTEMS; WIND FARMS; WIDE; DESIGN; HVDC
+Addresses: [Raoufat, M. Ehsan; Tomsovic, Kevin; Djouadi, Seddik M.] Univ Tennessee, Dept Elect Engn & Comp Sci, Knoxville, TN 37996 USA.
+Reprint Address: Raoufat, ME (reprint author), Univ Tennessee, Dept Elect Engn & Comp Sci, Knoxville, TN 37996 USA.
+E-mail Addresses: mraoufat@utk.edu; tomsovic@utk.edu; mdjouadi@utk.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+National Science Foundation 	
+CNS-1239366 
+Engineering Research Center Program of the National Science Foundation 	 
+Department of Energy under NSF 	
+EEC-1041877 
+CURENT Industry Partnership Program 	 
+This work was supported in part by the National Science Foundation under Grant CNS-1239366, in part by the Engineering Research Center Program of the National Science Foundation and the Department of Energy under NSF Award EEC-1041877, and in part by the CURENT Industry Partnership Program. Paper no. TPWRS-01434-2016. (Corresponding author: M. Ehsan Raoufat.)
+Open Access: No
+Output Date: 2017-11-14
+Record 61 of 162
+Title: Optimal Offering and Operating Strategy for a Large Wind-Storage System as a Price Maker
+Author(s): Ding, HJ (Ding, Huajie); Pinson, P (Pinson, Pierre); Hu, ZC (Hu, Zechun); Wang, JH (Wang, Jianhui); Song, YH (Song, Yonghua)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4904-4913  DOI: 10.1109/TPWRS.2017.2681720  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 22
+Abstract: Wind farms and energy storage systems are playing increasingly more important roles in power systems, which makes their offering nonnegligible in some markets. From the perspective of wind farm-energy storage systems (WF-ESS), this paper proposes an integrated strategy of day-ahead offering and real-time operation policies to maximize their overall profit. As participants with large capacity in electricity markets can influence cleared prices by strategic offering, a large scaled WF-ESS is assumed to be a price maker in day-ahead markets. Correspondingly, the strategy considers influence of offering quantity on cleared dayahead prices, and adopts linear decision rules as the real-time control strategy. These allow enhancing overall profits from both dayahead and balancing markets. The integrated price-maker strategy is formulated as a stochastic programming problem, where uncertainty of wind power generation and balancing prices are taken into account in the form of scenario sets, permitting to reformulate the optimization problem as a linear program. Case studies validate the effectiveness of the proposed strategy by highlighting and quantifying benefits comparing with the price-taker strategy, and also show the profit enhancement brought to the distributed resources.
+Accession Number: WOS:000413247800061
+Language: English
+Document Type: Article
+Author Keywords: Electricity markets; energy storage system; linear decision rules; offering strategy; price-maker strategy; wind farm
+KeyWords Plus: ELECTRICITY MARKET; POWER-PLANT; OPTIMIZATION; GENERATION; ENERGY
+Addresses: [Ding, Huajie; Hu, Zechun; Wang, Jianhui; Song, Yonghua] Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China. 
+[Ding, Huajie] State Grid Jibei Elect Power Co, Beijing 100053, Peoples R China. 
+[Pinson, Pierre] Tech Univ Denmark, Dept Elect Engn, DK-2800 Lyngby, Denmark. 
+Southern Methodist Univ, Dept Elect Engn, Dallas, TX 75275 USA.
+Reprint Address: Ding, HJ (reprint author), Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China.
+Ding, HJ (reprint author), State Grid Jibei Elect Power Co, Beijing 100053, Peoples R China.
+E-mail Addresses: hwageding@gmail.com; ppin@elektro.dtu.dk; zechhu@tsinghua.edu.cn; jianhui@smu.edu; yhsong@tsinghua.edu.cn
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+National Key Research and Development Program of China 	
+2016YFB0900501 
+National Natural Science Foundation of China 	
+51477082 
+Danish Strategic Council for Strategic Research through project PROAIN 	
+3045-00012B/DSF 
+Danish Strategic Council for Strategic Research through project 5s-Future Electricity Markets 	
+12-132636/DSF 
+US Department of Energy Office of Electricity Delivery and Energy Reliability 	
+DE-OE0000839 
+This work was supported in part by the National Key Research and Development Program of China under Grant 2016YFB0900501 and in part by the National Natural Science Foundation of China under Grant 51477082. The work of P. Pinson was supported in part by the Danish Strategic Council for Strategic Research through the projects PROAIN (3045-00012B/DSF) and in part by the 5s-Future Electricity Markets (12-132636/DSF). The work of J. Wang was supported by the US Department of Energy Office of Electricity Delivery and Energy Reliability under contract DE-OE0000839. Paper no. TPWRS-01443-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 62 of 162
+Title: Co-Optimization of Energy and Ancillary Services for Hydrothermal Operation Planning Under a General Security Criterion
+Author(s): Street, A (Street, Alexandre); Brigatto, A (Brigatto, Arthur); Valladao, DM (Valladao, Davi M.)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4914-4923  DOI: 10.1109/TPWRS.2017.2672555  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 1
+Usage Count (Since 2013): 1
+Cited Reference Count: 42
+Abstract: One of the most used methods for long-term hydrothermal operation planning is the stochastic dual dynamic programming (SDDP). Using this method, the immediate and future water opportunity cost can be balanced and an economic-dispatch policy can be defined for multiple reservoirs under inflow uncertainty. In this framework, equipment outages and reserve deliverability are generally disregarded, despite their strong impact on the operative plan. However, recent advances in robust optimization have shown how to endogenously account for security criteria in scheduling models with reduced computational burden. Within this framework, reserve deliverability is ensured across the network via the co-optimization of energy and reserves (ancillary services). In this paper, we propose a new multistage model for planning hydrothermal coordination that co-optimizes the nominal energy dispatch and individual up and down reserve allocations. The main goal of this paper is to address a general n - K security criterion, such that, for each inflow scenario, the system is capable of withstanding the loss of up to K components, i.e., generation or transmission assets. The proposed methodology uses the column-and-constraint generation algorithm to efficiently incorporate a compound umbrella set of contingencies in the SDDP algorithm. Results for the Brazilian power system data corroborate the effectiveness of the proposed model.
+Accession Number: WOS:000413247800062
+Language: English
+Document Type: Article
+Author Keywords: Adjustable robust optimization; column-and-constraint generation; co-optimization of energy and ancillary services; hydrothermal operation planning; N-K security criterion; stochastic dual dynamic programming
+KeyWords Plus: MULTISTAGE STOCHASTIC PROGRAMS; CONSTRAINED UNIT COMMITMENT; 2-STAGE ROBUST OPTIMIZATION; ELECTRICITY MARKETS; LINEAR-PROGRAMS; POWER-SYSTEMS; CONVERGENCE; ALGORITHMS
+Addresses: [Street, Alexandre; Brigatto, Arthur] Pontificia Univ Catolica Rio de Janeiro PUC Rio, Elect Engn Dept, Rio De Janeiro, RJ, Brazil. 
+[Valladao, Davi M.] Pontificia Univ Catolica Rio de Janeiro PUC Rio, Ind Engn Dept, Rio De Janeiro, RJ, Brazil.
+Reprint Address: Street, A (reprint author), Pontificia Univ Catolica Rio de Janeiro PUC Rio, Elect Engn Dept, Rio De Janeiro, RJ, Brazil.
+E-mail Addresses: street@ele.puc-rio.br; brigatto@ele.puc-rio.br; davimv@puc-rio.br
+Author Identifiers:
+Author	ResearcherID Number	ORCID Number
+Valladao, Davi 	J-1113-2014 	0000-0002-1084-6881 
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+CNPq 	 
+This work was supported in part by CNPq. Paper no. TPWRS-01456-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 63 of 162
+Title: Damping Representation for the Fifth-Order Generator Model in Transient Behaviors
+Author(s): Jiang, NQ (Jiang, Ningqiang); Chiang, HD (Chiang, Hsiao-Dong)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4924-4933  DOI: 10.1109/TPWRS.2017.2682902  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 16
+Abstract: An expression of the compensation torque is derived to reduce the difference between the fifth-order generator model and the seventh-order model. It is appended to the swing equation in the fifth-order model, with the voltage equations and the flux linkage equations unchanged. Based on the singular perturbation theory, the stator transients are approximated. The fast current components of three rotor windings are represented by equivalent d- and q-axis stator current increments that create the same stator flux linkage. The relationship between this torque and damping is clarified from a physical viewpoint. Simulations on two systems show that the compensation torque reduces the model difference. The proposed damping preserving model overcomes the difficulty in determining the damping torque coefficient and is applicable to online transient stability analysis.
+Accession Number: WOS:000413247800063
+Language: English
+Document Type: Article
+Author Keywords: Power system damping; power system stability simulation; power system transients; singular perturbation theory; synchronous machine
+KeyWords Plus: MULTIMACHINE POWER-SYSTEMS
+Addresses: [Jiang, Ningqiang] Nanjing Univ Sci & Technol, Sch Automat, Dept Elect Engn, Nanjing 210094, Jiangsu, Peoples R China. 
+[Chiang, Hsiao-Dong] Cornell Univ, Sch Elect & Comp Engn, Ithaca, NY 14853 USA.
+Reprint Address: Jiang, NQ (reprint author), Nanjing Univ Sci & Technol, Sch Automat, Dept Elect Engn, Nanjing 210094, Jiangsu, Peoples R China.
+E-mail Addresses: jiangningqiang@hotmail.com; chiang@ece.cornell.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+National Science Foundation of China 	
+51577092 
+This work was supported by the National Science Foundation of China under Grant 51577092. Paper no. TPWRS-01527-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 64 of 162
+Title: An LQR Controller for Damping of Subsynchronous Interaction in DFIG-Based Wind Farms
+Author(s): Ghafouri, M (Ghafouri, Mohsen); Karaagac, U (Karaagac, Ulas); Karimi, H (Karimi, Houshang); Jensen, S (Jensen, Simon); Mahseredjian, J (Mahseredjian, Jean); Faried, SO (Faried, Sherif O.)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4934-4942  DOI: 10.1109/TPWRS.2017.2669260  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 21
+Abstract: This paper presents a linear-quadratic regulator (LQR) for damping of subsynchronous interaction (SSI) in doubly-fed induction generator (DFIG)-based wind farms. The proposed LQR controller employs a full-state observer to estimate all state variables. The output of the LQR is added to control signals of inner current control loops of DFIG converters as supplementary control signals. The supplementary control signals are dynamically limited to avoid saturating the converters and to provide the DFIG with the desired transient response against power system faults. The proposed SSI damping controller is designed for a realistic series compensated wind farm, and its performance is verified using electromagnetic transient (EMT) simulations. The EMT simulations are performed using a detailed DFIG model which includes all nonlinearities and all required transient functions to meet the grid code requirements corresponding to fault-ride-through (FRT). The results show that the proposed SSI controller is able to significantly mitigate the oscillations due to the SSI phenomenon, and to provide excellent transient response against systems faults.
+Accession Number: WOS:000413247800064
+Language: English
+Document Type: Article
+Author Keywords: Doubly-fed induction generator (DFIG); observer design; optimal control; series capacitor compensation; subsynchronous interaction (SSI); wind farm
+KeyWords Plus: GENERATION; SYSTEMS
+Addresses: [Ghafouri, Mohsen; Mahseredjian, Jean] Polytech Montreal, Montreal, PQ H3C 3A7, Canada. 
+[Karimi, Houshang] Polytech Montreal, Dept Elect Engn, Montreal, PQ H3C 3A7, Canada. 
+[Karaagac, Ulas] Hong Kong Polytech Univ, Hong Kong, Hong Kong, Peoples R China. 
+[Jensen, Simon] Uberseering 10, D-22297 Hamburg, Germany. 
+[Faried, Sherif O.] Univ Saskatchewan, Dept Elect & Comp Engn, Saskatoon, SK S7N 5A9, Canada.
+Reprint Address: Ghafouri, M (reprint author), Polytech Montreal, Montreal, PQ H3C 3A7, Canada.
+E-mail Addresses: mohsen.ghafouri@gmail.com; ukaraa@polyu.edu.hk; houshang.karimi@polymtl.ca; Simon.Jensen@Senvion.com; jean.mahseredjian@polymtl.ca; sherif.faried@usask.ca
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 9
+Open Access: No
+Output Date: 2017-11-14
+Record 65 of 162
+Title: A Pole-to-Pole Short-Circuit Fault Current Calculation Method for DC Grids
+Author(s): Li, CY (Li, Chengyu); Zhao, CY (Zhao, Chengyong); Xu, JZ (Xu, Jianzhong); Ji, YK (Ji, Yuke); Zhang, F (Zhang, Fan); An, T (An, Ting)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4943-4953  DOI: 10.1109/TPWRS.2017.2682110  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 31
+Abstract: This paper proposes a generic pole-to-pole short-circuit fault current calculation method for dc grids. The calculation procedure begins from the simplified RLC equivalent model of a single modular multilevel converter, and then the prefault matrices and faulted matrices are established and modified to calculate the dc fault currents of all the branches. The proposed approaches are validated by comparing with the electromagnetic transient (EMT) simulation results on PSCAD/EMTDC. Besides, two case studies showed that the calculation method can be easily used to evaluate the severity of a dc fault. Moreover, the calculation can be applied to select the parameters of a fault current limiter (to match the circuit breaker capacity. The main contributions of the proposed numerical calculation method are: 1) The proposed method is accurate and much more time efficient than the EMT simulations; 2) the proposed method can handle all kinds of dc grid networks including the ring, radial, and meshed topologies; and 3) the proposed method is applicable to dc grid with multiple dc voltage level areas connected with dc/dc converters.
+Accession Number: WOS:000413247800065
+Language: English
+Document Type: Article
+Author Keywords: DC grid; dc fault current calculation; fault current limiter (FCL); modular multilevel converter (MMC)
+KeyWords Plus: MODULAR MULTILEVEL CONVERTERS; HVDC APPLICATIONS; SYSTEMS
+Addresses: [Li, Chengyu; Zhao, Chengyong; Xu, Jianzhong; Ji, Yuke; Zhang, Fan] North China Elect Power Univ, State Key Lab Alternate Elect Power Syst Renewabl, Beijing 102206, Peoples R China. 
+[An, Ting] Global Energy Interconnect Res Inst, Beijing 102211, Peoples R China.
+Reprint Address: Li, CY (reprint author), North China Elect Power Univ, State Key Lab Alternate Elect Power Syst Renewabl, Beijing 102206, Peoples R China.
+E-mail Addresses: lichengyu0216@foxmail.com; chengyongzhao@ncepu.edu.cn; xujianzhong@ncepu.edu.cn; jiyuke2014@qq.com; zhangfan198902@163.com; anting@geiri.sgcc.com.cn
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 11
+Funding:
+Funding Agency	Grant Number
+State Grid Corporation of China 	
+SGRIzlsdgcjsyjsJS [2014]264 
+This work was supported by State Grid Corporation of China 1000-Plan Project (SGRIzlsdgcjsyjsJS [2014]264). Paper no. TPWRS-01591-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 66 of 162
+Title: Impact of Dynamic Interactions Introduced by the DFIGs on Power System Electromechanical Oscillation Modes
+Author(s): Du, WJ (Du, Wenjuan); Chen, X (Chen, Xiao); Wang, HF (Wang, Hai Feng)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4954-4967  DOI: 10.1109/TPWRS.2017.2684463  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 1
+Usage Count (Since 2013): 1
+Cited Reference Count: 28
+Abstract: This paper derives the index of dynamic interactions (IDI), which is the sensitivity of a power system electromechanical oscillation mode (EOM) of concern to the dynamic interactions introduced by a grid-connected double-fed induction generator (DFIG). Based on the IDI, analysis is carried out with the following generally-applicable conclusions obtained: 1) Impact of dynamic interactions introduced by the DFIG increases when wind power penetration increases; 2) as long as the frequency response of an equivalent single DFIG model approximately matches the frequency response of a wind farm around the frequency of electromechanical oscillations of concern, this equivalent dynamic model of single DFIG can be used to represent the wind farm to examine the impact of wind farm on EOMs. Furthermore, an indicator of DFIG control (IDC) is derived for comparing the impact of terminal voltage control and reactive power control implemented by the DFIG. Main merit of the IDC is the computational simplicity without need to know dynamic model of the DFIG to indicate that either the terminal voltage control or the reactive power control is more beneficial to power system stability. An example multimachine power system with grid-connected DFIGs is presented to demonstrate and validate the analysis and conclusions made in the paper.
+Accession Number: WOS:000413247800066
+Language: English
+Document Type: Article
+Author Keywords: DFIG; electromechanical oscillation modes; power system small-signal angular stability
+KeyWords Plus: FED INDUCTION GENERATOR; SMALL-SIGNAL STABILITY; WIND TURBINES; MACHINE
+Addresses: [Du, Wenjuan; Chen, Xiao; Wang, Hai Feng] North China Elect Power Univ, State Key Lab Alternate Elect Power Syst New Ener, Beijing 102206, Peoples R China.
+Reprint Address: Du, WJ (reprint author), North China Elect Power Univ, State Key Lab Alternate Elect Power Syst New Ener, Beijing 102206, Peoples R China.
+E-mail Addresses: ddwenjuan@qq.com; 754482235@qq.com; hfwang60@qq.com
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 14
+Funding:
+Funding Agency	Grant Number
+National Key Research and Development Program of China 	
+2016YFB0900602 
+This work was supported by the National Key Research and Development Program of China (No. 2016YFB0900602). Paper no. TPWRS-01604-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 67 of 162
+Title: Constraint Qualification Based Detection Method for Nodal Price Multiplicity
+Author(s): Feng, DH (Feng, Donghan); Liu, C (Liu, Chang); Liu, ZY (Liu, Zeyu); Zhang, L (Zhang, Liang); Ding, YZ (Ding, Yangzhi); Campaigne, C (Campaigne, Clay)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4968-4969  DOI: 10.1109/TPWRS.2017.2667229  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 9
+Abstract: This paper proposes a fast, standalone method for detecting multiple dual solutions (MDS) of the market dispatch problem. Using linear independence constraint qualification conditions and matrix theory, we characterize the conditions for MDS and develop a procedure for their detection. Our procedure exploits the structure of the market dispatch problem to improve computational efficiency. We demonstrate our method on eight nodal pricing scenarios, in four test systems.
+Accession Number: WOS:000413247800067
+Language: English
+Document Type: Article
+Author Keywords: Regularity conditions; constraint qualification; double-sided auction; primal degeneracy; electricity markets; locational marginal prices; Lagrange multipliers; matrix theory
+KeyWords Plus: LAGRANGE MULTIPLIERS
+Addresses: [Feng, Donghan; Liu, Chang; Liu, Zeyu; Ding, Yangzhi] Shanghai Jiao Tong Univ, Minist Educ, Key Lab Control Power Transmission & Convers, Shanghai 200240, Peoples R China. 
+[Feng, Donghan; Liu, Chang; Liu, Zeyu; Ding, Yangzhi] Shanghai Jiao Tong Univ, Dept Elect Engn, Shanghai 200240, Peoples R China. 
+[Zhang, Liang] Univ Minnesota, Dept Elect & Comp Engn, Minneapolis, MN 55455 USA. 
+[Campaigne, Clay] Univ Calif Berkeley, Dept Ind Engn & Operat Res, Berkeley, CA 94720 USA.
+Reprint Address: Feng, DH (reprint author), Shanghai Jiao Tong Univ, Minist Educ, Key Lab Control Power Transmission & Convers, Shanghai 200240, Peoples R China.
+Feng, DH (reprint author), Shanghai Jiao Tong Univ, Dept Elect Engn, Shanghai 200240, Peoples R China.
+E-mail Addresses: seed@stju.edu.cn; zhan3523@umn.edu; claycampaigne@berkeley.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 2
+Funding:
+Funding Agency	Grant Number
+National Natural Science Foundation of China 	
+51477097 
+51677115 
+China Scholarship Council (CSC) 	
+201506235065 
+SJTU-KU Leuven Exploratory Bilateral co-operation Programme 	 
+UM/SJTU Collaborative Research Program 	 
+SMC-Morningstar Excellent Young Faculty Program of the Shanghai Jiao Tong University 	 
+This work was supported in part by the National Natural Science Foundation of China under Grants 51477097 and 51677115, in part by the China Scholarship Council (CSC No. 201506235065), in part by the SJTU-KU Leuven Exploratory Bilateral co-operation Programme, in part by the UM/SJTU Collaborative Research Program, and in part by the SMC-Morningstar Excellent Young Faculty Program of the Shanghai Jiao Tong University. Paper no. PESL-00059-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 68 of 162
+Title: Quantifying Risk of Wind Power Ramps in ERCOT
+Author(s): Zhao, J (Zhao, Jie); Abedi, S (Abedi, Sajjad); He, M (He, Miao); Du, PW (Du, Pengwei); Sharma, S (Sharma, Sandip); Blevins, B (Blevins, Bill)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4970-4971  DOI: 10.1109/TPWRS.2017.2678761  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 7
+Abstract: Hourly wind power ramps in ERCOT are studied by applying extreme value theory. Mean excess plot reveals that the tail behavior of large hourly wind power ramps indeed follows a generalized Pareto distribution. The location, shape, and scale parameters of generalized Pareto distribution are then determined by using mean excess plot and the least square technique, from which risk measures including aquantile value at risk and conditional value at risk are calculated.
+Accession Number: WOS:000413247800068
+Language: English
+Document Type: Article
+Author Keywords: ERCOT; extreme value theory; generalized Pareto distribution; risk assessment; wind power ramp
+Addresses: [Zhao, Jie; Abedi, Sajjad; He, Miao] Texas Tech Univ, Dept Elect & Comp Engn, Lubbock, TX 79409 USA. 
+[Du, Pengwei; Sharma, Sandip; Blevins, Bill] Elect Reliabil Council Texas, Taylor, TX 76574 USA.
+Reprint Address: Zhao, J (reprint author), Texas Tech Univ, Dept Elect & Comp Engn, Lubbock, TX 79409 USA.
+E-mail Addresses: Jie.Zhao@ttu.edu; Sajjad.Abedi@ttu.edu; Miao.He@ttu.edu; Pengwei.Du@ercot.com; Sandip.Sharma@ercot.com; Bill.Blevins@ercot.com
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 2
+Funding:
+Funding Agency	Grant Number
+Electric Reliability Council of Texas 	 
+National Science Foundation 	
+ECCS-1509890 
+ECCS-1653922 
+This work was supported in part by the Electric Reliability Council of Texas and in part by the National Science Foundation under Grants ECCS-1509890 and ECCS-1653922. Paper no. PESL-00121-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 69 of 162
+Title: Incorporating Squirrel-Cage Induction Machine Models in Convex Relaxations of OPF Problems
+Author(s): Molzahn, DK (Molzahn, Daniel K.)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4972-4974  DOI: 10.1109/TPWRS.2017.2667230  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 9
+Abstract: The optimal power flow (OPF) problem determines a minimum cost operating point for an electric power system. Recently developed convex relaxations are capable of globally solving certain OPF problems. Using a semidefinite relaxation of the OPF problem as an illustrative example, this letter presents a method for extending convex relaxations of the OPF problem to include steady-state squirrel-cage induction machine models.
+Accession Number: WOS:000413247800069
+Language: English
+Document Type: Article
+Author Keywords: Power system analysis computing; power system management; optimization
+Addresses: [Molzahn, Daniel K.] Argonne Natl Lab, Energy Syst Div, Lemont, IL 60439 USA.
+Reprint Address: Molzahn, DK (reprint author), Argonne Natl Lab, Energy Syst Div, Lemont, IL 60439 USA.
+E-mail Addresses: dmolzahn@anl.gov
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 3
+Funding:
+Funding Agency	Grant Number
+U.S. Department of Energy, Office of Electricity Delivery and Energy Reliability 	
+DE-AC02-06CH11357 
+The work was supported by the U.S. Department of Energy, Office of Electricity Delivery and Energy Reliability under Grant DE-AC02-06CH11357. Paper no. PESL-00163-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 70 of 162
+Title: GPU-Based Batch LU-Factorization Solver for Concurrent Analysis of Massive Power Flows
+Author(s): Zhou, G (Zhou, Gan); Bo, R (Bo, Rui); Chien, LS (Chien, Lungsheng); Zhang, X (Zhang, Xu); Shi, F (Shi, Fei); Xu, CL (Xu, Chunlei); Feng, YJ (Feng, Yanjun)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4975-4977  DOI: 10.1109/TPWRS.2017.2662322  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 3
+Abstract: Inmany power system applications, such as N-x static security analysis and Monte-Carlo-simulation-based probabilistic power flow (PF) analysis, it is a very time-consuming task to analyze massive number of PFs on identical or similar network topology. This letter presents a novel GPU-accelerated batch LU-factorization solver that achieves higher level of parallelism and better memory-access efficiency through packaging massive number of LU-factorization tasks to formulate a new larger-scale problem. The proposed solver can achieve up to 76 times speedup when compared to KLU library and lays a critical foundation for massive-PFs-solving applications.
+Accession Number: WOS:000413247800070
+Language: English
+Document Type: Article
+Author Keywords: Degree of parallelism; graphics processing unit (GPU); LU factorization; parallel computing; power flow
+Addresses: [Zhou, Gan; Feng, Yanjun] Southeast Univ, Sch Elect Engn, Nanjing 210096, Jiangsu, Peoples R China. 
+[Bo, Rui] Midcontinent Independent Syst, Eagan, MN 55121 USA. 
+[Bo, Rui] Missouri Univ Sci & Technol, Dept Elect & Comp Engn, Rolla, MO 65409 USA. 
+[Chien, Lungsheng] NVIDIA, Santa Clara, CA 95050 USA. 
+[Zhang, Xu; Shi, Fei] China Elect Power Res Inst, Nanjing 210003, Jiangsu, Peoples R China. 
+[Xu, Chunlei] State Grid Jiangsu Elect Power Co, Nanjing 210024, Jiangsu, Peoples R China.
+Reprint Address: Zhou, G (reprint author), Southeast Univ, Sch Elect Engn, Nanjing 210096, Jiangsu, Peoples R China.
+E-mail Addresses: zhougan2002@seu.edu.cn; rbo@mst.edu; lchien@nvidia.com; xuzhang@seu.edu.cn; shifei@epri.sgcc.com.cn; chunleixu@sina.com; fengyanjun@seu.edu.cn
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 3
+Funding:
+Funding Agency	Grant Number
+Science and Technology Foundation of State Grid Corporation of China 	
+DZ71-16-028 
+Jiangsu Province Natural Science Fund 	
+BK20151124 
+This work was supported in part by the Science and Technology Foundation of State Grid Corporation of China (DZ71-16-028) and in part by the Jiangsu Province Natural Science Fund (BK20151124). Paper no. PESL-00164-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 71 of 162
+Title: Second-Order Sliding Mode Based P-Q Coordinated Modulation of DFIGs Against Interarea Oscillations
+Author(s): Liao, K (Liao, Kai); Xu, Y (Xu, Yan); He, ZY (He, Zhengyou); Dong, ZY (Dong, Zhao Yang)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 6  Pages: 4978-4980  DOI: 10.1109/TPWRS.2017.2667228  Published: NOV 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 5
+Abstract: This letter presents an active and reactive power coordinated damping controller for doubly fed induction generator (DFIG) using second-order sliding mode technique. Through simultaneously modulating active and reactive power of DFIG, the proposed controller has an enhanced damping performance. Its advantages include faster damping speed and robustness to modeling uncertainties and parameter variations. Simulation results have verified its superior performance over existing schemes.
+Accession Number: WOS:000413247800071
+Language: English
+Document Type: Article
+Author Keywords: Doubly fed induction generator (DFIG); damping control; interarea oscillations; second-order sliding mode
+KeyWords Plus: POWER OSCILLATIONS
+Addresses: [Liao, Kai; Xu, Yan] Nanyang Technol Univ, Sch Elect & Elect Engn, Singapore 639798, Singapore. 
+[He, Zhengyou] Southwest Jiaotong Univ, Dept Elect Engn, Chengdu 610031, Sichuan, Peoples R China. 
+[Dong, Zhao Yang] Univ Sydney, Sch Elect & Informat Engn, Sydney, NSW 2006, Australia.
+Reprint Address: Liao, K (reprint author), Nanyang Technol Univ, Sch Elect & Elect Engn, Singapore 639798, Singapore.
+E-mail Addresses: liaokai.lk@foxmail.com; eeyanxu@gmail.com; hezy@home.swjtu.cn; joe.dong@sydney.edu.au
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FK1NE
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 3
+Funding:
+Funding Agency	Grant Number
+National Natural Science Foundation of China 	
+51525702 
+This work was supported in part by the National Natural Science Foundation of China under Grant 51525702. The work of Y. Xu was supported by the Nanyang Assistant Professorship from Nanyang Technological University, Singapore. Paper no. PESL-00187-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 72 of 162
+Title: Stochastic Multi-Timescale Power System Operations With Variable Wind Generation
+Author(s): Wu, HY (Wu, Hongyu); Krad, I (Krad, Ibrahim); Florita, A (Florita, Anthony); Hodge, BM (Hodge, Bri-Mathias); Ibanez, E (Ibanez, Eduardo); Zhang, J (Zhang, Jie); Ela, E (Ela, Erik)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3325-3337  DOI: 10.1109/TPWRS.2016.2635684  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 4
+Usage Count (Since 2013): 4
+Cited Reference Count: 36
+Abstract: This paper describes an integrated operational simulation tool that combines various stochastic unit commitment and economic dispatch models together that consider stochastic loads and variable generation at multiple operational timescales. The tool includes four distinct configurable sub-models within: dayahead lsecurity-constrained unit commitment (SCUC), real-time SCUC, real-time security-constrained economic dispatch (SCED), and automatic generation control (AGC). The unit commitment and dispatch sub-models within can be configured to meet multiple load and variable generation (VG) scenarios with configurable first stage and second-stage decisions determined where first-stage decisions are passed on and second-stage decisions are later determined by other sub-models in a continuous manner. The progressive hedging algorithm (PHA) is applied to solve the stochastic models to maintain the computational tractability of the proposed models. Comparative case studies, considering various configurations of stochastic and deterministic sub-models are conducted in low wind and high wind penetration scenarios to highlight the advantages of the stochastic programming during different decision-making processes. The effectiveness of the proposed method is evaluated with sensitivity tests using both economic and short-term reliability metrics to provide a broader view of its impact at different timescales and decision-making processes.
+Accession Number: WOS:000407854900001
+Language: English
+Document Type: Article
+Author Keywords: Automatic generation control; area control error; economic dispatch; progressive hedging; stochastic unit commitment
+KeyWords Plus: CONSTRAINED UNIT COMMITMENT; OPTIMIZATION; FLEXIBILITY; IMPACTS; SCUC
+Addresses: [Wu, Hongyu] Kansas State Univ, Dept Elect & Comp Engn, Manhattan, KS 66506 USA. 
+[Krad, Ibrahim; Florita, Anthony; Hodge, Bri-Mathias] Natl Renewable Energy Lab, Power Syst Engn Ctr, Golden, CO 80401 USA. 
+[Ibanez, Eduardo] GE Energy Consulting, Schenectady, NY 12345 USA. 
+[Zhang, Jie] Univ Texas Dallas, Richardson, TX 75080 USA. 
+[Ela, Erik] Elect Power Res Inst, 3412 Hillview Ave, Palo Alto, CA 94304 USA.
+Reprint Address: Wu, HY (reprint author), Kansas State Univ, Dept Elect & Comp Engn, Manhattan, KS 66506 USA.
+E-mail Addresses: hongyuwu@ksu.edu; ibrahim.krad@nrel.gov; anthony.florita@nrel.gov; bri.mathias.hodge@nrel.gov; eduardo.ibanez1@ge.com; jiezhang@utdallas.edu; eela@epri.com
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 13
+Funding:
+Funding Agency	Grant Number
+U.S. Department of Energy 	
+DE-AC36-08-GO28308 
+National Renewable Energy Laboratory (NREL) 	 
+Laboratory Directed Research and Development Program at NREL 	 
+This work was supported in part by the U.S. Department of Energy under Contract DE-AC36-08-GO28308 with the National Renewable Energy Laboratory (NREL) and in part by the Laboratory Directed Research and Development Program at NREL.
+Open Access: No
+Output Date: 2017-11-14
+Record 73 of 162
+Title: Inertia Emulation in AC/DC Interconnected Power Systems Using Derivative Technique Considering Frequency Measurement Effects
+Author(s): Rakhshani, E (Rakhshani, Elyas); Rodriguez, P (Rodriguez, Pedro)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3338-3351  DOI: 10.1109/TPWRS.2016.2644698  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 3
+Usage Count (Since 2013): 3
+Cited Reference Count: 24
+Abstract: Virtual inertia is known as an inevitable part of the modern power systems with high penetration of renewable energy. Recent trend of research is oriented in different methods of emulating the inertia to increase the sustainability of the system. In the case of dynamic performance of power systems especially in Automatic Generation Control (AGC) issue, there are concerns considering the matter of virtual inertia. This paper proposes an approach for analyzing the dynamic effects of virtual inertia in two-area AC/DC interconnected AGC power systems. Derivative control technique is used for higher level control application of inertia emulation. This method of inertia emulation is developed for two-area AGC system, which is connected by parallel AC/DC transmission systems. Based on the proposed technique, the dynamic effect of inertia emulated by storage devices for frequency and active power control are evaluated. The effects of frequency measurement delay and phase-locked loop effect are also considered by introducing a second-order function. Simulations performed by MATLAB software demonstrate how virtual inertia emulation can effectively improve the performance of the power system. A detailed eigenvalue analysis is also performed to support the positive effects of the proposed method.
+Accession Number: WOS:000407854900002
+Language: English
+Document Type: Article
+Author Keywords: Automatic generation control; interconnected systems; load frequency control; virtual inertia
+KeyWords Plus: ENERGY-STORAGE; WIND FARMS; OPTIMIZATION; GENERATION; IMPACT; SMES
+Addresses: [Rakhshani, Elyas; Rodriguez, Pedro] Tech Univ Catalonia, SEER Res Ctr, Elect Engn Dept, Barcelona 08222, Spain. 
+[Rodriguez, Pedro] Loyola Univ Andalusia, Dept Engn, Seville 41014, Spain.
+Reprint Address: Rakhshani, E (reprint author), Tech Univ Catalonia, SEER Res Ctr, Elect Engn Dept, Barcelona 08222, Spain.
+E-mail Addresses: rakhshani@ieee.org; prodriguez@ee.upc.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 14
+Funding:
+Funding Agency	Grant Number
+Spanish Science Ministry of Economy and Competitiveness 	
+ENE2013-48428-C2-2-R 
+ENE2014-60228-R 
+This work was supported by the Spanish Science Ministry of Economy and Competitiveness under Project ENE2013-48428-C2-2-R and Project ENE2014-60228-R.
+Open Access: No
+Output Date: 2017-11-14
+Record 74 of 162
+Title: Data Improving in Time Series Using ARX and ANN Models
+Author(s): Akouemo, HN (Akouemo, Hermine N.); Povinelli, RJ (Povinelli, Richard J.)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3352-3359  DOI: 10.1109/TPWRS.2017.2656939  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 6
+Usage Count (Since 2013): 6
+Cited Reference Count: 44
+Abstract: Anomalous data can negatively impact energy forecasting by causing model parameters to be incorrectly estimated. This paper presents two approaches for the detection and imputation of anomalies in time series data. Autoregressive with exogenous inputs (ARX) and artificial neural network (ANN) models are used to extract the characteristics of time series. Anomalies are detected by performing hypothesis testing on the extrema of the residuals, and the anomalous data points are imputed using the ARX and ANN models. Because the anomalies affect the model coefficients, the data cleaning process is performed iteratively. The models are re-learned on "cleaner" data after an anomaly is imputed. The anomalous data are reimputed to each iteration using the updated ARX and ANN models. The ARX and ANN data cleaning models are evaluated on natural gas time series data. This paper demonstrates that the proposed approaches are able to identify and impute anomalous data points. Forecasting models learned on the unclean data and the cleaned data are tested on an uncleaned out-of-sample dataset. The forecasting model learned on the cleaned data outperforms the model learned on the unclean data with 1.67% improvement in the mean absolute percentage errors and a 32.8% improvement in the root mean squared error. Existing challenges include correctly identifying specific types of anomalies such as negative flows.
+Accession Number: WOS:000407854900003
+Language: English
+Document Type: Article
+Author Keywords: ANN; ARX; hypothesis testing; imputation; Outlier detection; time series
+KeyWords Plus: NEURAL-NETWORK; OUTLIER DETECTION; NOVELTY DETECTION; MISSING VALUES; POWER-SYSTEM; PREDICTION
+Addresses: [Akouemo, Hermine N.; Povinelli, Richard J.] Marquette Univ, Dept Elect & Comp Engn, Milwaukee, WI 53233 USA.
+Reprint Address: Akouemo, HN (reprint author), Marquette Univ, Dept Elect & Comp Engn, Milwaukee, WI 53233 USA.
+E-mail Addresses: nathermine@gmail.com; richard.povinelli@marquette.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 8
+Funding:
+Funding Agency	Grant Number
+GasDay Laboratory at Marquette University 	 
+This work was supported by the GasDay Laboratory at Marquette University.
+Open Access: No
+Output Date: 2017-11-14
+Record 75 of 162
+Title: Day-Ahead Financial Loss/Gain Modeling and Prediction for a Generation Company
+Author(s): Doostmohammadi, A (Doostmohammadi, Ali); Amjady, N (Amjady, Nima); Zareipour, H (Zareipour, Hamidreza)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3360-3372  DOI: 10.1109/TPWRS.2017.2654363  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 8
+Usage Count (Since 2013): 8
+Cited Reference Count: 30
+Abstract: In an electricity market, the main goal of a generation company (GenCo) is to maximize its profit, while encountering the uncertainty of the electricity price forecast. Different risk measures have been proposed to cope with this source of uncertainty. However, those are usually before-the-fact performance indices and cannot give a measure for the financial loss/gain (FLG) of a GenCo considering the electricity prices actually realized in the market. This paper focuses on this matter. The time series of FLG is first constructed given the real conditions of the electricity market. Then, the FLG time series is quantized using Silhouette criterion and k-means clustering approach. Subsequently, based on the historical values of the quantized FLG time series and relevant exogenous variables, its day-ahead values are predicted. The method proposed for day-ahead FLG prediction consist of conditional mutual information and sequential forward search as the feature selection technique and extreme learning machine as the forecasting engine. The effectiveness of the whole proposed approach, including the FLG time series construction, quantization approach, and the prediction method, is shown for a typicalGenCo using the real data of the PJM and Ontario electricity markets.
+Accession Number: WOS:000407854900004
+Language: English
+Document Type: Article
+Author Keywords: Electricity price forecast; extreme learning machine; feature selection; financial loss/gain (FLG); generation company (GenCo); quantization
+KeyWords Plus: NEURO-EVOLUTIONARY ALGORITHM; ELECTRICITY MARKETS; UNIT COMMITMENT; POWER-SYSTEMS; FORECAST; CLASSIFICATION; FRAMEWORK; STRATEGY; FUTURE; PRICES
+Addresses: [Doostmohammadi, Ali; Amjady, Nima] Semnan Univ, Dept Elect Engn, Semnan 35195363, Iran. 
+[Zareipour, Hamidreza] Univ Calgary, Schulich Sch Engn, Dept Elect & Comp Engn, Calgary, AB T2N 1N4, Canada.
+Reprint Address: Doostmohammadi, A (reprint author), Semnan Univ, Dept Elect Engn, Semnan 35195363, Iran.
+E-mail Addresses: a.doostmohamadi@students.semnan.ac.ir; amjady@semnan.ac.ir; h.zareipour@ucalgary.ca
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 13
+Open Access: No
+Output Date: 2017-11-14
+Record 76 of 162
+Title: Assessment of the Effectiveness of Energy Storage Resources in the Frequency Regulation of a Single-Area Power System
+Author(s): Zhang, F (Zhang, Fang); Hu, ZC (Hu, Zechun); Xie, X (Xie, Xu); Zhang, J (Zhang, Jing); Song, YG (Song, Yonghua)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3373-3380  DOI: 10.1109/TPWRS.2017.2649579  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 3
+Usage Count (Since 2013): 3
+Cited Reference Count: 39
+Abstract: An energy storage resource (ESR) has outstanding ramping capability, but its limited energy disables the provision of regulation service around the clock. As a comparison, a conventional generator (CG) is not restricted by the released energy, but the ramp rate is limited. In this paper, a method is proposed to evaluate the effectiveness of ESRs providing frequency regulation service in a single-area system. We measure the performance of frequency regulation by the standard deviation of system frequency excursions, and define the regulation requirement of an isolated power system as the minimum regulation capacity which satisfies the desired regulation performance. By analyzing the regulation requirements under different combinations of regulation resources, we can quantitatively compare the effectiveness of CGs and ESRs. Case studies show that ESRs can reduce regulation requirements, indicating that they are more effective than CGs in frequency regulation. However, they become less effective and even outperformed by CGs when they constitute a larger portion of the system regulation capacity.
+Accession Number: WOS:000407854900005
+Language: English
+Document Type: Article
+Author Keywords: Automatic generation control; energy storage; frequency regulation; ramping capability; regulation requirement
+KeyWords Plus: RENEWABLE ENERGY; WIND; MARKETS; GENERATION; OPERATION; IMPACT
+Addresses: [Zhang, Fang; Hu, Zechun; Song, Yonghua] Tsinghua Univ, Dept Elect Engn, Beijing 100084, Peoples R China. 
+[Zhang, Fang] State Grid Corp China, Natl Elect Power Dispatching & Control Ctr, Beijing 100031, Peoples R China. 
+[Xie, Xu; Zhang, Jing] State Grid Corp China, North China Branch, Beijing 100031, Peoples R China. 
+[Song, Yonghua] Zhejiang Univ, Coll Elect Engn, Hangzhou 310027, Peoples R China.
+Reprint Address: Zhang, F (reprint author), State Grid Corp China, Natl Elect Power Dispatching & Control Ctr, Beijing 100031, Peoples R China.
+E-mail Addresses: zhang-fang@sgcc.com.cn; zechhu@tsinghua.edu.cn; xxu82722@126.com; jingzhang1998@126.com; yhsong@tsinghua.edu.cn
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 8
+Funding:
+Funding Agency	Grant Number
+National Natural Science Foundation of China 	
+51477082 
+China Scholarship Council 	 
+This work was supported in part by the National Natural Science Foundation of China (51477082) and in part by the China Scholarship Council.
+Open Access: No
+Output Date: 2017-11-14
+Record 77 of 162
+Title: A Unit Commitment Algorithm and a Compact MILP Model for Short-Term Hydro-Power Generation Scheduling
+Author(s): Guedes, LSM (Guedes, Lucas S. M.); Maia, PD (Maia, Pedro de Mendonca); Lisboa, AC (Lisboa, Adriano Chaves); Gomes Vieira, DA (Gomes Vieira, Douglas Alexandre); Saldanha, RR (Saldanha, Rodney Rezende)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3381-3390  DOI: 10.1109/TPWRS.2016.2641390  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 7
+Usage Count (Since 2013): 7
+Cited Reference Count: 40
+Abstract: This paper presents a unit commitment algorithm that defines each unit discharge given the water head, the total plant downstream flow, the variable discharge upper limit, the unit efficiency curves, and the restricted operating zones in order to maximize power efficiency. This algorithm is part of the preprocessing phase that is intended to approximate a hydro-power production function that represents individualized unit decisions. A compact mixed-integer linear programming formulation, with fewer integer variables, based on an equivalent unit model and a piecewise linear generation function, is proposed. The unit commitment is integrated without increasing the model size and complexity due to the preprocessing phase. Moreover, the optimal aggregate decision is automatically converted to unit decisions by the proposed algorithm. The coordination with mid/long-term planning is performed by taking into account the power demand allocated to the hydro-power plants. Numerical tests on Brazilian hydro-power plants demonstrate that the proposed formulation has lower computational cost than unit individualized models considering a given accuracy level for the generation function approximation.
+Accession Number: WOS:000407854900006
+Language: English
+Document Type: Article
+Author Keywords: Short-term planning; hydro generation scheduling; unit commitment; mixed-integer linear programming; cascaded reservoirs
+KeyWords Plus: HYDROELECTRIC PLANT; HYDROTHERMAL DISPATCH; CONSTRAINTS; HEAD; SYSTEMS
+Addresses: [Guedes, Lucas S. M.; Maia, Pedro de Mendonca; Lisboa, Adriano Chaves; Gomes Vieira, Douglas Alexandre] ENACOM, BR-31310260 Belo Horizonte, MG, Brazil. 
+[Guedes, Lucas S. M.; Lisboa, Adriano Chaves; Gomes Vieira, Douglas Alexandre] Univ Fed Minas Gerais, Grad Program Elect Engn, BR-31270901 Belo Horizonte, MG, Brazil. 
+[Saldanha, Rodney Rezende] Univ Fed Minas Gerais, Dept Elect Engn, BR-31270901 Belo Horizonte, MG, Brazil.
+Reprint Address: Guedes, LSM (reprint author), ENACOM, BR-31310260 Belo Horizonte, MG, Brazil.
+E-mail Addresses: lucas.guedes@enacom.com.br; pedro.maia@enacom.com.br; adriano.lisboa@enacom.com.br; douglas.vieira@enacom.com.br; rodney@cpdee.ufmg.br
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+FAPEMIG, Brazil 	 
+CNPq, Brazil 	 
+CAPES, Brazil 	 
+This work was supported by FAPEMIG, CNPq, and CAPES, Brazil.
+Open Access: No
+Output Date: 2017-11-14
+Record 78 of 162
+Title: Improved Synthetic Power Grid Modeling With Correlated Bus Type Assignments
+Author(s): Elyas, SH (Elyas, Seyyed Hamid); Wang, ZF (Wang, Zhifang)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3391-3402  DOI: 10.1109/TPWRS.2016.2634318  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 1
+Total Times Cited: 1
+Usage Count (Last 180 days): 1
+Usage Count (Since 2013): 1
+Cited Reference Count: 26
+Abstract: This paper presents our study results on the correlated assignment of generation, load, or connection buses in a given grid topology and the development of an optimized search algorithm to improve the proposed synthetic grid model, called RT-nestedSmallWorld. A numerical measure, called "bus type entropy", was proposed in an initial study on this subject to characterize the correlation of bus type assignments in realistic grids. In this paper, its definition has been redefined and improved with the help of some newly obtained data of realistic grids so that the scaling property of a real-world grid's entropy value versus the network size can be effectively captured with a curve-fitting approach. With the help of the derived scaling function, we will be able to determine an appropriate target entropy value that a correlated bus type assignment should assume in a specific N-bus grid network. Therefore, our previously proposed synthetic power grid modeling has been enhanced with a direct search procedure for the best bus type assignments in a specific N-bus grid topology, saving the mandatory, but most of the time unattainable, requirement of a set of realistic grid data with a comparable network size for identifying the search target. Finally, the performance of the proposed approach is examined based on some available grid data including the IEEE test cases, the NYISO-2935, the ERCOT-5633, and the WECC-16994 systems.
+Accession Number: WOS:000407854900007
+Language: English
+Document Type: Article
+Author Keywords: Bus type assignment; graph network; power grid modeling; random topology; vulnerability
+KeyWords Plus: NETWORKS; DYNAMICS; BEHAVIOR
+Addresses: [Elyas, Seyyed Hamid; Wang, Zhifang] Virginia Commonwealth Univ, Dept Elect & Comp Engn, Med Coll Virginia Campus, Richmond, VA 23284 USA.
+Reprint Address: Elyas, SH (reprint author), Virginia Commonwealth Univ, Dept Elect & Comp Engn, Med Coll Virginia Campus, Richmond, VA 23284 USA.
+E-mail Addresses: elyassh@vcu.edu; zfwang@vcu.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 12
+Funding:
+Funding Agency	Grant Number
+US Department of Energy under the Consortium for Electric Reliability Technology Solutions initiative 	 
+This work was supported in part by the US Department of Energy under the Consortium for Electric Reliability Technology Solutions initiative.
+Open Access: No
+Output Date: 2017-11-14
+Record 79 of 162
+Title: Distributed Real-Time Optimal Power Flow Control in Smart Grid
+Author(s): Liu, Y (Liu, Yun); Qu, ZH (Qu, Zhihua); Xin, HH (Xin, Huanhai); Gan, DQ (Gan, Deqiang)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3403-3414  DOI: 10.1109/TPWRS.2016.2635683  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 7
+Usage Count (Since 2013): 7
+Cited Reference Count: 32
+Abstract: Conventionally, power system has a hierarchical control structure including primary, secondary, and tertiary controls. The drawbacks of this hierarchical scheme are manifest: 1) it lacks flexibility and scalability, which is against the trend toward an open-access power system; 2) load forecast as the basis of tertiary control could be inaccurate and infeasible, especially in microgrid for example; 3) as the penetration of renewable energy increases, the relatively long time-scales of secondary and tertiary controls cannot accommodate to more severe power fluctuation within the system. To avoid these drawbacks, a distributed real-time optimal power flow control strategy is introduced in this paper. With the aid of up-to-date smart grid technologies such as two-way communication and distributed sensor, the proposed approach can avoid the need of load forecast and achieve the same objective as hierarchical control with a feedback mechanism in real time, that is to recover the nominal system frequency and maintain the active power of the generators close to the optimal operational condition in the presence of any disturbance. Convergence of the proposed approach is analytically proved. Simulation results in a 34-bus islanded microgrid and the IEEE 118-bus bulk power grid validate the effectiveness and efficiency of the proposed approach.
+Accession Number: WOS:000407854900008
+Language: English
+Document Type: Article
+Author Keywords: Consensus; distributed control; frequency regulation; multi-agent system; optimal power flow
+KeyWords Plus: ENERGY-STORAGE; AC MICROGRIDS; SYSTEM; STRATEGY; INTEGRATION; INFORMATION; GENERATION; MANAGEMENT; ALGORITHM; PLANT
+Addresses: [Liu, Yun; Xin, Huanhai] Univ Cent Florida, Orlando, FL 32816 USA. 
+[Liu, Yun] Nanyang Technol Univ, Energy Res Inst, Singapore 639798, Singapore. 
+[Liu, Yun; Xin, Huanhai; Gan, Deqiang] Zhejiang Univ, Dept Elect Engn, Hangzhou 310027, Peoples R China. 
+[Qu, Zhihua] Univ Cent Florida, Dept Elect & Comp Engn, Orlando, FL 32815 USA.
+Reprint Address: Xin, HH (reprint author), Zhejiang Univ, Dept Elect Engn, Hangzhou 310027, Peoples R China.
+E-mail Addresses: yunliu@ntu.edu.sg; qu@ucf.edu; xinhh@zju.edu.cn; deqiang.gan@ieee.org
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 12
+Funding:
+Funding Agency	Grant Number
+National High Technology Research and Development Program of China 	
+2015AA050202 
+National Natural Science Foundation of China 	
+51577168 
+State Grid Zhejiang Electric Power Company 	
+5211JY15001Q 
+U.S. National Science Foundation 	
+ECCS-1308928 
+U.S. Department of Energy 	
+DE-EE0006340 
+DE-EE0007327 
+U.S. Department of Transportation 	
+DTRT13-G-UTC51 
+L-3 Communication 	
+11013I2034 
+Leidos 	
+P010161530 
+Texas Instruments awards 	 
+The work of Y. Liu, H. Xin, and D. Gan was supported by the National High Technology Research and Development Program of China (No. 2015AA050202), the National Natural Science Foundation of China (No. 51577168), and the State Grid Zhejiang Electric Power Company (Study on Planning Mode of Active Distribution Network in Zhejiang Province, No. 5211JY15001Q). The work of Z. Qu was supported in part by U.S. National Science Foundation under Grant ECCS-1308928, in part by U.S. Department of Energy awards DE-EE0006340 and DE-EE0007327, in part by U.S. Department of Transportation Grant DTRT13-G-UTC51, in part by L-3 Communication contract 11013I2034, in part by Leidos contract P010161530, and in part by Texas Instruments awards.
+Open Access: No
+Output Date: 2017-11-14
+Record 80 of 162
+Title: Directional Derivative-Based Transient Stability-Constrained Optimal Power Flow
+Author(s): Pizano-Martinez, A (Pizano-Martinez, Alejandro); Fuerte-Esquivel, CR (Fuerte-Esquivel, Claudio R.); Zamora-Cardenas, EA (Zamora-Cardenas, Enrique Arnoldo); Lozano-Garcia, JM (Lozano-Garcia, Jose Merced)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3415-3426  DOI: 10.1109/TPWRS.2016.2633979  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 2
+Usage Count (Since 2013): 2
+Cited Reference Count: 23
+Abstract: This paper proposes a novel active power redispatch sequential approach to solve the transient stability-constrained optimal power flow (TSC-OPF) problem for the preventive control of transient stability. Based on an independent transient stability assessment of the power system for a given contingency scenario, two proposed power redispatch constraints are formulated and embedded into a conventional OPF formulation. Since these two new constraints only depend on steady-state variables, the dimension of the resulting TSC-OPF model is similar to that of a conventional OPF model and can be solved by standard optimization methods to perform a nonheuristic active power redispatch. The stabilization process is performed by sequentially solving the optimization and the transient stability problems until a suitable generation dispatch that provides a transiently stable equilibrium point is assessed. The validity and the effectiveness of the proposed method are numerically demonstrated in the WSCC three-machine, nine-bus system and an equivalent model of the Mexican power system.
+Accession Number: WOS:000407854900009
+Language: English
+Document Type: Article
+Author Keywords: Directional derivative; transient stability-constrained optimal power flow; transiently stable operating point
+KeyWords Plus: PREVENTIVE CONTROL; SYSTEMS; ALGORITHM
+Addresses: [Pizano-Martinez, Alejandro; Zamora-Cardenas, Enrique Arnoldo; Lozano-Garcia, Jose Merced] Univ Guanajuato, Dept Elect Engn, Salamanca 58030, Mexico. 
+[Fuerte-Esquivel, Claudio R.] Univ Michoacana, Fac Elect Engn, Morelia 58030, Michoacan, Mexico.
+Reprint Address: Pizano-Martinez, A (reprint author), Univ Guanajuato, Dept Elect Engn, Salamanca 58030, Mexico.
+E-mail Addresses: apizano@ugto.mx; cfuertee@gmail.com; ezamora@ugto.mx; jm.lozano@ugto.mx
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 12
+Open Access: No
+Output Date: 2017-11-14
+Record 81 of 162
+Title: Chance-Constrained AC Optimal Power Flow for Distribution Systems With Renewables
+Author(s): Anese, ED (Anese, Emiliano Dall'); Baker, K (Baker, Kyri); Summers, T (Summers, Tyler)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3427-3438  DOI: 10.1109/TPWRS.2017.2656080  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 3
+Usage Count (Since 2013): 3
+Cited Reference Count: 40
+Abstract: This paper focuses on distribution systems featuring renewable energy sources (RESs) and energy storage systems, and presents an AC optimal power flow (OPF) approach to optimize system-level performance objectives while coping with uncertainty in both RES generation and loads. The proposed method hinges on a chance-constrained AC OPF formulation, where probabilistic constraints are utilized to enforce voltage regulation with prescribed probability. A computationally more affordable convex reformulation is developed by resorting to suitable linear approximations of the AC power-flow equations as well as convex approximations of the chance constraints. The approximate chance constraints provide conservative bounds that hold for arbitrary distributions of the forecasting errors. An adaptive strategy is then obtained by embedding the proposed AC OPF task into a model predictive control framework. Finally, a distributed solver is developed to strategically distribute the solution of the optimization problems across utility and customers.
+Accession Number: WOS:000407854900010
+Language: English
+Document Type: Article
+Author Keywords: Distribution systems; model predictive control; optimal power flow; renewable integration; voltage regulation
+KeyWords Plus: PHOTOVOLTAIC INVERTERS; DISTRIBUTION NETWORKS; STOCHASTIC PROGRAMS; DISTRIBUTION GRIDS; OPTIMAL DISPATCH; SAMPLING METHODS; INTEGRATION; APPROXIMATION; RELAXATION; RISK
+Addresses: [Anese, Emiliano Dall'; Baker, Kyri] Natl Renewable Energy Lab, Golden, CO 80401 USA. 
+[Summers, Tyler] Univ Texas Dallas, Dept Mech Engn, Richardson, TX 75080 USA.
+Reprint Address: Anese, ED (reprint author), Natl Renewable Energy Lab, Golden, CO 80401 USA.
+E-mail Addresses: emiliano.dallanese@nrel.gov; kyri.baker@nrel.gov; ths150130@utdallas.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 12
+Funding:
+Funding Agency	Grant Number
+U.S. Department of Energy 	
+DE-AC36-08GO28308 
+National Renewable Energy Laboratory 	 
+Laboratory Directed Research and Development Program at the National Renewable Energy Laboratory 	 
+Grid Modernization Laboratory Consortium 	 
+This work was supported by the U.S. Department of Energy under Contract No. DE-AC36-08GO28308 with the National Renewable Energy Laboratory. The effort of E. Dall'Anese and K. Baker was supported by the Laboratory Directed Research and Development Program at the National Renewable Energy Laboratory and by the Grid Modernization Laboratory Consortium. The U.S. Government retains and the publisher, by accepting the article for publication, acknowledges that the U.S. Government retains a nonexclusive, paid-up, irrevocable, worldwide license to publish or reproduce the published form of this work, or allow others to do so, for U.S. Government purposes.
+Open Access: No
+Output Date: 2017-11-14
+Record 82 of 162
+Title: Efficient Large-Scale Energy Storage Dispatch: Challenges in Future High Renewable Systems
+Author(s): O'Dwyer, C (O'Dwyer, Ciara); Ryan, L (Ryan, Lisa); Flynn, D (Flynn, Damian)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3439-3450  DOI: 10.1109/TPWRS.2017.2656245  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 1
+Total Times Cited: 1
+Usage Count (Last 180 days): 7
+Usage Count (Since 2013): 7
+Cited Reference Count: 55
+Abstract: Future power systems with high penetrations of variable renewables will require increased levels of flexibility from generation and demand-side sources in order to maintain secure and stable operation. One potential flexibility source is large-scale energy storage, which can provide a variety of ancillary services across multiple time scales. In order for appropriate levels of investment to take place, and in order for existing assets to be utilized optimally, it is essential that market signals are present which encourage suitable levels of flexibility, either from storage or alternative sources. Suboptimal storage plant dispatch due to uncertainty and inefficient market incentives are represented as operational constraints on the storage plant, and the impact of these inefficiencies are highlighted. Thus, changes required in operational practices for storage plant at different installed wind capacity levels, and the challenges that private storage plant operators will face in generating appropriate bids in a market environment at high variable renewable penetrations are explored. The impacts on system generating costs and storage profits are explored under different plant operating assumptions.
+Accession Number: WOS:000407854900011
+Language: English
+Document Type: Article
+Author Keywords: Energy storage; power system simulation; pumped storage power generation; wind energy
+KeyWords Plus: WIND POWER; VARIABILITY; OPERATION; RESERVES; MARKET; PLANT; PRICE
+Addresses: [O'Dwyer, Ciara; Ryan, Lisa; Flynn, Damian] Univ Coll Dublin, Sch Elect & Elect Engn, Dublin, Ireland.
+Reprint Address: O'Dwyer, C (reprint author), Univ Coll Dublin, Sch Elect & Elect Engn, Dublin, Ireland.
+E-mail Addresses: ciara.o-dwyer@ucdconnect.ie; lisa.ryan@ucd.ie; damian.flynn@ucd.ie
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 12
+Funding:
+Funding Agency	Grant Number
+Electricity Research Centre's Industry Affiliates Programme 	 
+Science Foundation Ireland 	
+SFI/09/SRC/E1780 
+This work was conducted in the Electricity Research Centre, University College Dublin, Ireland, which is supported by the Electricity Research Centre's Industry Affiliates Programme (http://erc.ucd.ie/industry/). This publication has emanated from research conducted with the financial support of Science Foundation Ireland under Grant SFI/09/SRC/E1780. Paper no. TPWRS-00092-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 83 of 162
+Title: Planning to Equip the Power Distribution Networks with Automation System
+Author(s): Heidari, S (Heidari, Saeed); Fotuhi-Firuzabad, M (Fotuhi-Firuzabad, Mahmud); Lehtonen, M (Lehtonen, Matti)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3451-3460  DOI: 10.1109/TPWRS.2017.2650210  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 6
+Usage Count (Since 2013): 6
+Cited Reference Count: 26
+Abstract: Implementing automation system in distribution networks needs a huge investment that usually cannot be funded entirely in a short period of time. So distribution companies (DISCOs) should develop long-term plans to equip their network with automation technologies as far as economically justifiable. Aiming to provide a methodology for development such plans, this paper presents a novel multistage planning model for implementing distribution automation system considering all main hardware and software infrastructures. The proposed method optimally determines the type, location, and time in which an equipment or infrastructure must be added to network considering the network capacity expansion plan. The objective function of the planning problem is to maximize the net present value of the DISCO's profit in the planning time horizon. In this method, the optimization problem is solved using the genetic algorithm approach as a promising technique in solving the mixed integer nonlinear programming problems. The proposed method is evaluated on an illustrative test network and the obtained results are presented and discussed.
+Accession Number: WOS:000407854900012
+Language: English
+Document Type: Article
+Author Keywords: Distribution automation system (DAS); distribution company (DISCO); distribution system planning (DSP); distribution system reliability; genetic algorithm
+KeyWords Plus: SWITCH PLACEMENT; ALGORITHM; MODELS
+Addresses: [Heidari, Saeed; Fotuhi-Firuzabad, Mahmud] Sharif Univ Technol, Ctr Excellence Power Syst Management & Control, Dept Elect Engn, Tehran 113659363, Iran. 
+[Lehtonen, Matti] Aalto Univ, Dept Elect Engn, FI-00076 Espoo, Finland.
+Reprint Address: Heidari, S (reprint author), Sharif Univ Technol, Ctr Excellence Power Syst Management & Control, Dept Elect Engn, Tehran 113659363, Iran.
+E-mail Addresses: saeed_heidari@ee.sharif.edu; fotuhi@sharif.edu; matti.lehtonen@aalto.fi
+Author Identifiers:
+Author	ResearcherID Number	ORCID Number
+Lehtonen, Matti 	G-2330-2013 	 
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+INSF 	 
+This work was supported by INSF. Paper no. TPWRS-00100-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 84 of 162
+Title: Data-Driven Stochastic Transmission Expansion Planning
+Author(s): Bagheri, A (Bagheri, Ali); Wang, JH (Wang, Jianhui); Zhao, CY (Zhao, Chaoyue)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3461-3470  DOI: 10.1109/TPWRS.2016.2635098  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 3
+Usage Count (Since 2013): 3
+Cited Reference Count: 37
+Abstract: Due to the significant improvements of power generation technologies and the trend of replacing traditional power plants with renewable generation resources, the generation portfolio will experience dramatic changes in the near future. The uncertainty and variability of renewable energy and their sitting call for strategic and economic plans for expanding the transmission capacities. In this study, we develop a data-driven two-stage stochastic transmission expansion planning with uncertainties. In the proposed approach, purely by learning from the historical data, we first construct a confidence set for the unknown distribution of the uncertain parameters. Then, we develop a two-stage data-driven transmission expansion framework, by considering the worst-case distribution within the constructed confidence set, so as to provide a reliable while economic transmission planning decision. Furthermore, to tackle the model complexity, we propose a decomposition framework embedded with Benders' and Column-and-Constraint generation methods. We implement our approach on 6-bus and 118-bus systems to test its effectiveness. Finally, we show as the amount of historical data grows, the conservativeness of the model decreases.
+Accession Number: WOS:000407854900013
+Language: English
+Document Type: Article
+Author Keywords: Benders' decomposition; column-and-constraint generation; data driven; stochastic programming; transmission expansion planning
+KeyWords Plus: ROBUST UNIT COMMITMENT; ELECTRICITY MARKETS; SYSTEM EXPANSION; OPTIMIZATION; WIND; UNCERTAINTIES; GENERATION; APPROXIMATIONS; STRATEGY; REGRET
+Addresses: [Bagheri, Ali; Zhao, Chaoyue] Oklahoma State Univ, Sch Ind Engn & Management, Stillwater, OK 74074 USA. 
+[Wang, Jianhui] Argonne Natl Lab, Energy Syst Div, Lemont, IL 60439 USA.
+Reprint Address: Bagheri, A (reprint author), Oklahoma State Univ, Sch Ind Engn & Management, Stillwater, OK 74074 USA.
+E-mail Addresses: ali.bagheri@okstate.edu; jianhui.wang@anl.gov; chaoyue.zhao@okstate.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+U.S. Department of Energy (DOE)'s Office of Electricity Delivery and Energy Reliability 	 
+This work was supported by the U.S. Department of Energy (DOE)'s Office of Electricity Delivery and Energy Reliability. Paper no. TPWRS-00178-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 85 of 162
+Title: Negative Reactance Impacts on the Eigenvalues of the Jacobian Matrix in Power Flow and Type-1 Low-Voltage Power-Flow Solutions
+Author(s): Ding, T (Ding, Tao); Li, C (Li, Cheng); Yang, YH (Yang, Yongheng); Bo, R (Bo, Rui); Blaabjerg, F (Blaabjerg, Frede)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3471-3481  DOI: 10.1109/TPWRS.2016.2645608  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 2
+Usage Count (Since 2013): 2
+Cited Reference Count: 29
+Abstract: It was usually considered in power systems that power flow equations had multiple solutions and all the eigenvalues of Jacobian matrix at the high-voltage operable solution should have negative real parts. Accordingly, type-1 low-voltage power flow solutions are defined in the case that the Jacobian matrix has only one positive real-part eigenvalue. However, an important issue that has not been well addressed yet is that the "negative reactance" may appear in the practical power system models. Thus, the negative real-part eigenvalues of the Jacobian matrix at the high-voltage operable solution may be positive and also the type-1 low-voltage solutions could have more than one positive real-part eigenvalues, being a major challenge. Therefore, in this paper, the recognition of the type-1 low-voltage power flow solutions is re-examined with the presence of negative reactance. Selected IEEE standard power system models and the real-world Polish power systems are then tested to verify the analysis. The results reveal that the negative reactance in the practical power systems has a significant impact on the negative real-part eigenvalues of the Jacobian matrix at the high-voltage operable solution as well as the number of positive real-part eigenvalues at the type-1 low-voltage power flow solutions.
+Accession Number: WOS:000407854900014
+Language: English
+Document Type: Article
+Author Keywords: Negative reactance; power flow; continuation power flow; eigenvalues; type-1 power flow solution
+KeyWords Plus: LOAD-FLOW; STABILITY ASSESSMENT; SYSTEMS; ALGORITHM; COMPUTE; CPFLOW
+Addresses: [Ding, Tao; Li, Cheng] Xi An Jiao Tong Univ, Sch Elect Engn, State Key Lab Elect Insulat & Power Equipment, Xian 710049, Peoples R China. 
+[Yang, Yongheng; Blaabjerg, Frede] Aalborg Univ, Dept Energy Technol, DK-9220 Aalborg, Denmark. 
+[Bo, Rui] Midcontinent Independent Transmiss Syst Operator, Eagan, MN 55121 USA.
+Reprint Address: Ding, T (reprint author), Xi An Jiao Tong Univ, Sch Elect Engn, State Key Lab Elect Insulat & Power Equipment, Xian 710049, Peoples R China.
+E-mail Addresses: tding15@mail.xjtu.edu.cn; jackcleebest@hotmail.com; yoy@et.aau.dk; rbo2008@gmail.com; fbl@et.aau.dk
+Author Identifiers:
+Author	ResearcherID Number	ORCID Number
+Bo, Rui 	 	0000-0001-9108-1093 
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 11
+Funding:
+Funding Agency	Grant Number
+National Key Research and Development Program of China 	
+2016YFB0901904 
+National Natural Science Foundation of China 	
+51607137 
+China Postdoctoral Science Foundation 	
+2015M580847 
+Natural Science Basis Research Plan in Shaanxi Province of China 	
+2016JQ5015 
+State Key Laboratory of Electrical Insulation 	 
+Power Equipment in Xi'an Jiaotong University 	
+EIPE16301 
+This work was supported in part by the National Key Research and Development Program of China under Grant 2016YFB0901904, in part by the National Natural Science Foundation of China under Grant 51607137, in part by China Postdoctoral Science Foundation under Grant 2015M580847, in part by the Natural Science Basis Research Plan in Shaanxi Province of China under Grant 2016JQ5015, in part by the project of State Key Laboratory of Electrical Insulation, and in part by the Power Equipment in Xi'an Jiaotong University under Grant EIPE16301. Paper no. TPWRS-00183-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 86 of 162
+Title: Parameter Identification of Integrated Model of Hydraulic Turbine Regulating System With Uncertainties Using Three Different Approaches
+Author(s): Chen, ZH (Chen, Zhihuan); Yuan, XH (Yuan, Xiaohui); Yuan, YB (Yuan, Yanbin); Iu, HHC (Iu, Herbert Ho-Ching); Fernando, T (Fernando, Tyrone)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3482-3491  DOI: 10.1109/TPWRS.2016.2639293  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 4
+Usage Count (Since 2013): 4
+Cited Reference Count: 26
+Abstract: In this paper, three novel parameter identification methods are developed and used to solve the unknown parameters problem of integrated model of hydraulic turbine regulating system with uncertainties. The first and second methods are designed based on different parameter observers using dynamic system stability theorem, which are referred to as unknown parameter observer and synchronization-based parameter observer, respectively, while the third method is designed based on an ant lion optimizer (ALO) algorithm, which is referred to as the ALO-based estimator. Performance of the three methods are compared in various aspects, including the orders, the structure, and the independence of the identification system. Results show that the unknown parameter observer has the lowest identification system orders, while the synchronization-based parameter observer has the simplest system structure, and the ALO-based estimator owns the best system independence.
+Accession Number: WOS:000407854900015
+Language: English
+Document Type: Article
+Author Keywords: Ant lion optimizer; hydraulic turbine regulating system; parameter identification; parameter observer
+KeyWords Plus: GRAVITATIONAL SEARCH ALGORITHM; FEEDBACK LINEARIZATION METHOD; UNIT COMMITMENT PROBLEM; GOVERNING SYSTEM; DYNAMIC-ANALYSIS; POWER-PLANTS; WIND POWER; CONTROLLER; OPTIMIZATION; DESIGN
+Addresses: [Chen, Zhihuan; Yuan, Xiaohui] Huazhong Univ Sci & Technol, Sch Hydropower & Informat Engn, Wuhan 430074, Hubei, Peoples R China. 
+[Yuan, Yanbin] Huazhong Univ Sci & Technol, Sch Hydropower & Informat Engn, Wuhan 430074, Hubei, Peoples R China. 
+[Iu, Herbert Ho-Ching; Fernando, Tyrone] Wuhan Univ Technol, Sch Resource & Environm Engn, Wuhan 430070, Hubei, Peoples R China. 
+Univ Western Australia, Sch Elect Elect & Comp Engn, Crawley, WA 6009, Australia.
+Reprint Address: Yuan, XH (reprint author), Huazhong Univ Sci & Technol, Sch Hydropower & Informat Engn, Wuhan 430074, Hubei, Peoples R China.
+E-mail Addresses: czh8906@163.com; yxh71@163.com; yuanyan-bin_whut@163.com; herbert.iu@uwa.edu.au; tyrone.fernando@uwa.edu.au
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+National Natural Science Foundation of China 	
+51379080 
+41571514 
+This work was supported by the National Natural Science Foundation of China under Grants 51379080 and 41571514. Paper no. TPWRS-00208-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 87 of 162
+Title: A Stochastic Adaptive Robust Optimization Approach for the Offering Strategy of a Virtual Power Plant
+Author(s): Baringo, A (Baringo, Ana); Baringo, L (Baringo, Luis)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3492-3504  DOI: 10.1109/TPWRS.2016.2633546  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 2
+Usage Count (Since 2013): 2
+Cited Reference Count: 27
+Abstract: This paper proposes a novel approach for the offering strategy of a virtual power plant that participates in the day-ahead and the real-time energy markets. The virtual power plant comprises a conventional power plant, a wind-power unit, a storage facility, and flexible demands, which participate in the day-ahead and the real-time markets as a single entity in order to optimize their energy resources. We model the uncertainty in the wind-power production and in the market prices using confidence bounds and scenarios, respectively, which allows us to formulate the strategic offering problem as a stochastic adaptive robust optimization model. Results of a case study are provided to show the applicability of the proposed approach.
+Accession Number: WOS:000407854900016
+Language: English
+Document Type: Article
+Author Keywords: Robust optimization; stochastic programming; strategic offering; uncertainty; virtual power plant
+KeyWords Plus: UNIT COMMITMENT; RESERVE MARKETS; ENERGY; PRICE; MODEL
+Addresses: [Baringo, Ana; Baringo, Luis] Univ Castilla La Mancha, E-13071 Ciudad Real, Spain.
+Reprint Address: Baringo, A (reprint author), Univ Castilla La Mancha, E-13071 Ciudad Real, Spain.
+E-mail Addresses: anabaringom@gmail.com; Luis.Baringo@uclm.es
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 13
+Funding:
+Funding Agency	Grant Number
+Ministry of Science of Spain under CICYT 	
+ENE2015-63879-R 
+Junta de Comunidades de Castilla-La Mancha 	
+POII-2014-012-P 
+Universidad de Castilla-La Mancha 	
+GI20163388 
+The work of L. Baringo was supported in part by the Ministry of Science of Spain under CICYT Project ENE2015-63879-R (MINECO/FEDER, UE), in part by the Junta de Comunidades de Castilla-La Mancha under Project POII-2014-012-P, and in part by the Universidad de Castilla-La Mancha under Grant GI20163388. Paper no. TPWRS-00221-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 88 of 162
+Title: Primary Frequency Regulation With Load-Side Participation-Part I: Stability and Optimality
+Author(s): Kasis, A (Kasis, Andreas); Devane, E (Devane, Eoin); Spanias, C (Spanias, Chrysovalantis); Lestas, I (Lestas, Ioannis)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3505-3518  DOI: 10.1109/TPWRS.2016.2636286  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 1
+Total Times Cited: 1
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 29
+Abstract: We present a method to design distributed generation and demand control schemes for primary frequency regulation in power networks that guarantee asymptotic stability and ensure fairness of allocation. We impose a passivity condition on net power supply variables and provide explicit steady-state conditions on a general class of generation and demand control dynamics that ensure convergence of solutions to equilibria that solve an appropriately constructed network optimization problem. We also show that the inclusion of controllable demand results in a drop in steady-state frequency deviations. We discuss how various classes of dynamics used in recent studies fit within our framework and show that this allows for less conservative stability and optimality conditions. We illustrate our results with simulations on the IEEE 68-bus transmission system and the IEEE 37-bus distribution system with static and dynamic demand response schemes.
+Accession Number: WOS:000407854900017
+Language: English
+Document Type: Article
+Author Keywords: Frequency control; stability; optimization
+KeyWords Plus: SMART GRIDS; POWER; SYNCHRONIZATION; NETWORKS; SYSTEMS
+Addresses: [Kasis, Andreas; Lestas, Ioannis] Univ Cambridge, Dept Engn, Cambridge CB2 1PZ, England. 
+[Devane, Eoin] Univ Cambridge, Cambridge Ctr Anal, Ctr Math Sci, Cambridge CB3 0WA, England. 
+[Spanias, Chrysovalantis] Cyprus Univ Technol, Dept Elect Engn Comp Engn & Informat, CY-3036 Limassol, Cyprus. 
+[Lestas, Ioannis] Cyprus Univ Technol, CY-3036 Limassol, Cyprus.
+Reprint Address: Kasis, A (reprint author), Univ Cambridge, Dept Engn, Cambridge CB2 1PZ, England.
+E-mail Addresses: ak647@cam.ac.uk; esmd2@cam.ac.uk; ca.spanias@edu.cut.ac.cy; icl20@cam.ac.uk
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 14
+Funding:
+Funding Agency	Grant Number
+ERC 	 
+This work was supported in part by an ERC starting grant. Paper no. TPWRS-00223-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 89 of 162
+Title: Primary Frequency Regulation With Load-Side Participation-Part II: Beyond Passivity Approaches
+Author(s): Devane, E (Devane, Eoin); Kasis, A (Kasis, Andreas); Antoniou, M (Antoniou, Marina); Lestas, I (Lestas, Ioannis)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3519-3528  DOI: 10.1109/TPWRS.2016.2636284  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 1
+Total Times Cited: 1
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 24
+Abstract: We consider the problem of distributed generation and demand control for primary frequency regulation in power networks, such that stability and optimality of the power allocation can be guaranteed. It was shown in Part I of this work, that by imposing an input strict passivity condition on the net supply dynamics at each bus, combined with a decentralized condition on their steady-state behavior, convergence to optimality can be guaranteed for broad classes of generation and demand control dynamics in a general network. In this paper, we show that by taking into account additional local information, the input strict passivity condition can be relaxed to less restrictive decentralized conditions. These conditions extend the classes of generation and load dynamics for which convergence to optimality can be guaranteed beyond the class of passive systems, thus, allowing to reduce the conservatism in the analysis and feedback design.
+Accession Number: WOS:000407854900018
+Language: English
+Document Type: Article
+Author Keywords: Decentralized control; frequency control; stability
+KeyWords Plus: MULTIMACHINE POWER-SYSTEMS; HAMILTONIAN-SYSTEMS; LYAPUNOV FUNCTIONS; STABILITY
+Addresses: [Devane, Eoin] Univ Cambridge, Cambridge Ctr Anal, Ctr Math Sci, Cambridge CB3 0WA, England. 
+[Kasis, Andreas; Antoniou, Marina; Lestas, Ioannis] Univ Cambridge, Dept Engn, Cambridge CB2 1PZ, England. 
+[Lestas, Ioannis] Cyprus Univ Technol, CY-3036 Limassol, Cyprus.
+Reprint Address: Devane, E (reprint author), Univ Cambridge, Cambridge Ctr Anal, Ctr Math Sci, Cambridge CB3 0WA, England.
+E-mail Addresses: esmd2@cam.ac.uk; ak647@cam.ac.uk; ma308@cam.ac.uk; icl20@cam.ac.uk
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+ERC 	 
+This work was supported in part by an ERC starting grant. Paper no. TPWRS-00224-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 90 of 162
+Title: OPF Techniques for Real-Time Active Management of Distribution Networks
+Author(s): Robertson, JG (Robertson, James G.); Harrison, GP (Harrison, Gareth P.); Wallace, AR (Wallace, A. Robin)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3529-3537  DOI: 10.1109/TPWRS.2016.2624985  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 14
+Abstract: This paper presents a method for real-time active network management (ANM) control to maximize network-wide energy yield in constrained networks. Coordinated scheduling of renewable distributed generation (DG) and distribution network control assets can limit DG curtailment and significantly increase energy yield and economic performance of DG. Here, an optimal power flow approach has been developed for real-time online scheduling of network control settings to better integrate high levels of temporally and spatially variable DG from renewable energy resources. Results show that the real-time prescription of ANM control settings provides a feasible alternative to network reinforcement under the existing passive management philosophy.
+Accession Number: WOS:000407854900019
+Language: English
+Document Type: Article
+Author Keywords: Active network management; distributed generation; optimal power flow; distribution management system
+KeyWords Plus: GENERATION; VOLTAGE
+Addresses: [Robertson, James G.; Harrison, Gareth P.; Wallace, A. Robin] Univ Edinburgh, Inst Energy Syst, Sch Engn, Edinburgh EH9 3DW, Midlothian, Scotland.
+Reprint Address: Robertson, JG (reprint author), Univ Edinburgh, Inst Energy Syst, Sch Engn, Edinburgh EH9 3DW, Midlothian, Scotland.
+E-mail Addresses: J.Robertson@ed.ac.uk; Gareth.Harrison@ed.ac.uk; Robin.Wallace@ed.ac.uk
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 9
+Funding:
+Funding Agency	Grant Number
+Engineering and Physical Research Council 	
+EP/F061242/1 
+EP/I035773/1 
+This work was supported by the Engineering and Physical Research Council under Grant EP/F061242/1 and Grant EP/I035773/1. Paper no. TPWRS-00228-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 91 of 162
+Title: Solving Multiperiod OPF Problems Using an AC-QP Algorithm Initialized With an SOCP Relaxation
+Author(s): Marley, JF (Marley, Jennifer F.); Molzahn, DK (Molzahn, Daniel K.); Hiskens, IA (Hiskens, Ian A.)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3538-3548  DOI: 10.1109/TPWRS.2016.2636132  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 56
+Abstract: Renewable generation and energy storage are playing an ever increasing role in power systems. Hence, there is a growing need for integrating these resources into the optimal power flow (OPF) problem. While storage devices are important for mitigating renewable variability, they introduce temporal coupling in the OPF constraints, resulting in a multiperiod OPF formulation. This paper explores a solution method for multiperiod AC OPF that combines a successive quadratic programming approach (AC-QP) with a second-order cone programming (SOCP) relaxation of the OPF problem. The SOCP relaxation's solution is used to initialize the AC-QP OPF algorithm. Additionally, the lower bound on the objective value obtained from the SOCP relaxation provides a measure of solution quality. This combined method is demonstrated on several test cases with up to 4259 nodes and a time horizon of eight time steps. A comparison of initialization schemes indicates that the SOCP-based approach offers improved convergence rate, execution time, and solution quality.
+Accession Number: WOS:000407854900020
+Language: English
+Document Type: Article
+Author Keywords: Convex relaxation; global solution; large-scale power system optimization; optimal power flow
+KeyWords Plus: OPTIMAL POWER-FLOW; OPTIMIZATION; OPERATIONS; SYSTEMS
+Addresses: [Marley, Jennifer F.; Hiskens, Ian A.] Univ Michigan, Dept Elect Engn & Comp Sci, Ann Arbor, MI 48109 USA. 
+[Molzahn, Daniel K.] Argonne Natl Lab, Energy Syst Div, Lemont, IL USA.
+Reprint Address: Marley, JF (reprint author), Univ Michigan, Dept Elect Engn & Comp Sci, Ann Arbor, MI 48109 USA.
+E-mail Addresses: jkfelder@umich.edu; dmolzahn@anl.gov; hiskens@umich.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 11
+Funding:
+Funding Agency	Grant Number
+ARPA-E Award, Department of Energy, Green Electricity Network Integration Program 	
+DE-AR0000232 
+National Science Foundation 	
+CNS-1238962 
+This work was supported in part by the ARPA-E Award no. DE-AR0000232, Department of Energy, Green Electricity Network Integration Program and in part by the National Science Foundation through Award CNS-1238962. Paper no. TPWRS-00290-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 92 of 162
+Title: Strengthening the SDP Relaxation of AC Power Flows With Convex Envelopes, Bound Tightening, and Valid Inequalities
+Author(s): Coffrin, C (Coffrin, Carleton); Hijazi, HL (Hijazi, Hassan L.); Van Hentenryck, P (Van Hentenryck, Pascal)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3549-3558  DOI: 10.1109/TPWRS.2016.2634586  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 1
+Usage Count (Since 2013): 1
+Cited Reference Count: 52
+Abstract: This work revisits the semidefine programming (SDP) relaxation of the ac power flow equations in light of recent results illustrating the benefits of bounds propagation, valid inequalities, and the convex quadratic relaxation. By integrating all of these results into the SDP model a new hybrid relaxation is proposed, which combines the benefits from all of these recent works. This strengthened SDP formulation is evaluated on 71 AC Optimal Power Flow test cases from the NESTA archive and is shown to have an optimality gap of less than 1% on 63 cases. This new hybrid relaxation closes 50% of the open cases considered, leaving only eight for future investigation.
+Accession Number: WOS:000407854900021
+Language: English
+Document Type: Article
+Author Keywords: Convex quadratic optimization; optimal power flow; optimization methods; semidefine programming
+KeyWords Plus: NETWORKS; MODELS; TREE
+Addresses: [Coffrin, Carleton] Los Alamos Natl Lab, Los Alamos, NM 87544 USA. 
+[Hijazi, Hassan L.] DATA61 CSIRO, Optimisat Res Grp, Canberra, ACT 2601, Australia. 
+[Hijazi, Hassan L.] Australian Natl Univ, Coll Engn & Comp Sci, Canberra, ACT 2601, Australia. 
+[Van Hentenryck, Pascal] Univ Michigan, Dept Ind & Operat Engn, Ann Arbor, MI 48109 USA. 
+[Van Hentenryck, Pascal] Univ Michigan, Dept Comp Sci & Engn, Ann Arbor, MI 48109 USA.
+Reprint Address: Coffrin, C (reprint author), Los Alamos Natl Lab, Los Alamos, NM 87544 USA.
+E-mail Addresses: cjc@lanl.gov; hassan.hijazi@anu.edu.au; pvanhent@umich.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+NICTA 	 
+Australian Government through the Department of Communications 	 
+Australian Research Council through the ICT Centre of Excellence Program 	 
+The work of H. L. Hijazi was supported by the NICTA, which is funded in part by the Australian Government through the Department of Communications and in part by the Australian Research Council through the ICT Centre of Excellence Program. Paper no. TPWRS-00306-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 93 of 162
+Title: Cooperation of Wind Power and Battery Storage to Provide Frequency Regulation in Power Markets
+Author(s): He, GN (He, Guannan); Chen, QX (Chen, Qixin); Kang, CQ (Kang, Chongqing); Xia, Q (Xia, Qing); Poolla, K (Poolla, Kameshwar)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3559-3568  DOI: 10.1109/TPWRS.2016.2644642  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 1
+Total Times Cited: 1
+Usage Count (Last 180 days): 4
+Usage Count (Since 2013): 4
+Cited Reference Count: 36
+Abstract: In the future power system with high penetration of renewables, renewable energy is expected to undertake part of the responsibility for frequency regulation, just as the conventional generators. Wind power and battery storage are complementary in accuracy and durability when providing frequency regulation. Therefore, it would be profitable to combine wind power and battery storage as a physically connected entity or a virtual power plant to provide both energy and frequency regulation in the markets. This paper proposes a real-time cooperation scheme to exploit their complementary characteristics and an optimal bidding strategy for them in joint energy and regulation markets, considering battery cycle life. The proposed cooperation scheme is adopted in a real-time battery operating simulation and then incorporated into the optimal bidding model. The scheme could improve the wind regulation performance score and allow for more regulation bids without affecting the battery life, thus significantly increasing the overall revenue. The validity of the proposed scheme and strategy are proved by the case study.
+Accession Number: WOS:000407854900022
+Language: English
+Document Type: Article
+Author Keywords: Battery storage; battery cycle life; cooperation scheme; regulation markets; wind power
+KeyWords Plus: FARM PARTICIPATION; SYSTEMS; PERFORMANCE; LIFETIME; PLANTS
+Addresses: [He, Guannan; Chen, Qixin; Kang, Chongqing; Xia, Qing] Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China. 
+[Poolla, Kameshwar] Univ Calif Berkeley, Dept Elect Engn & Comp Sci, Berkeley, CA 94720 USA.
+Reprint Address: Chen, QX (reprint author), Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China.
+E-mail Addresses: qxchen@tsinghua.edu.cn; cqkang@tsinghua.edu.cn
+Author Identifiers:
+Author	ResearcherID Number	ORCID Number
+He, Guannan 	 	0000-0002-5055-076X 
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+National Science Foundation of China 	
+51622705 
+Fok Ying Tung Education Foundation 	
+151057 
+Beijing New-star Plan of Science and Technology 	 
+This work was supported in part by the National Science Foundation of China under Grant 51622705, in part by the Fok Ying Tung Education Foundation under Grant 151057, and in part by the Beijing New-star Plan of Science and Technology. Paper no. TPWRS-00321-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 94 of 162
+Title: Energy-Sharing Model With Price-Based Demand Response for Microgrids of Peer-to-Peer Prosumers
+Author(s): Liu, N (Liu, Nian); Yu, XH (Yu, Xinghuo); Wang, C (Wang, Cheng); Li, CJ (Li, Chaojie); Ma, L (Ma, Li); Lei, JY (Lei, Jinyong)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3569-3583  DOI: 10.1109/TPWRS.2017.2649558  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 2
+Total Times Cited: 2
+Usage Count (Last 180 days): 7
+Usage Count (Since 2013): 7
+Cited Reference Count: 35
+Abstract: According to the feed-in tariff for encouraging local consumption of photovoltaic (PV) energy, the energy sharing among neighboring PV prosumers in the microgrid could be more economical than the independent operation of prosumers. For microgrids of peer-to-peer PV prosumers, an energy-sharing model with price-based demand response is proposed. First, a dynamical internal pricing model is formulated for the operation of energy-sharing zone, which is defined based on the supply and demand ratio (SDR) of shared PV energy. Moreover, considering the energy consumption flexibility of prosumers, an equivalent cost model is designed in terms of economic cost and users' willingness. As the internal prices are coupled with SDR in the microgrid, the algorithm and implementation method for solving the model is designed on a distributed iterative way. Finally, through a practical case study, the effectiveness of the method is verified in terms of saving PV prosumers' costs and improving the sharing of the PV energy.
+Accession Number: WOS:000407854900023
+Language: English
+Document Type: Article
+Author Keywords: Demand response; energy sharing; pricing; smart grid
+KeyWords Plus: MULTIAGENT SYSTEM; MANAGEMENT; OPERATION; OPTIMIZATION; SCHEME
+Addresses: [Liu, Nian; Wang, Cheng; Ma, Li] North China Elect Power Univ, State Key Lab Alternate Elect Power Syst Renewabl, Beijing 102206, Peoples R China. 
+[Yu, Xinghuo; Li, Chaojie] RMIT Univ, Sch Engn, Melbourne, Vic 3000, Australia. 
+[Lei, Jinyong] China Southern Power Grid, Elect Power Res Inst, Guangzhou 510080, Guangdong, Peoples R China.
+Reprint Address: Liu, N (reprint author), North China Elect Power Univ, State Key Lab Alternate Elect Power Syst Renewabl, Beijing 102206, Peoples R China.
+E-mail Addresses: nian_liu@163.com; x.yu@rmit.edu.au; 1172664915@qq.com; cjlee.cqu@163.com; 406500046@qq.com; leijy@csg.cn
+Author Identifiers:
+Author	ResearcherID Number	ORCID Number
+Li, Chaojie 	 	0000-0002-0557-1481 
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 15
+Funding:
+Funding Agency	Grant Number
+National High-tech R&D Program of China (863 Program) 	
+2014AA052001 
+This work was supported by the National High-tech R&D Program of China (863 Program) under Grant 2014AA052001. Paper no. TPWRS-00339-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 95 of 162
+Title: Critical Bus Voltage Support in Distribution Systems With Electric Springs and Responsibility Sharing
+Author(s): Zheng, Y (Zheng, Yu); Hill, DJ (Hill, David John); Meng, K (Meng, Ke); Hui, SY (Hui, S. Y.)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3584-3593  DOI: 10.1109/TPWRS.2016.2645940  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 0
+Usage Count (Since 2013): 0
+Cited Reference Count: 28
+Abstract: With the development of a new smart load device, the electric spring (ES), the operation of distribution systems with high renewable penetration becomes more flexible. The ESs can be installed at noncritical loads for grid support. This paper proposes a two-level voltage management scheme to optimize the voltage profiles of the network, especially at chosen critical buses. In the upper level, the tap positions of load tap changer and capacitor banks switching are optimized to prevent the voltages along the feeder from being out of limits. The model predictive control technique is applied to handle the uncertainties in renewable energy and demand. In the lower level, the responsibility of maintaining the voltages of the critical buses is shared among the ES in a distributed way via consensus control which is suitable for systems with limited communication and calculation capabilities. The proposed management scheme is verified on a modified IEEE 15-bus distribution network. The results show that different voltage regulation devices can work together to maintain the voltage of critical buses by sharing the responsibility in the proposed scheme.
+Accession Number: WOS:000407854900024
+Language: English
+Document Type: Article
+Author Keywords: Consensus control; distribution system; electric spring; model predictive control; voltage regulation
+KeyWords Plus: MODEL-PREDICTIVE CONTROL; DISTRIBUTION NETWORKS; HIGH PENETRATION; STORAGE-SYSTEM; MANAGEMENT; ALGORITHM; GENERATION; MITIGATION; OPERATION; DEVICES
+Addresses: [Zheng, Yu; Hill, David John; Hui, S. Y.] Univ Hong Kong, Dept Elect & Elect Engn, Hong Kong, Hong Kong, Peoples R China. 
+[Hill, David John; Meng, Ke] Univ Sydney, Sch Elect & Informat Engn, Sydney, NSW 2006, Australia.
+Reprint Address: Zheng, Y (reprint author), Univ Hong Kong, Dept Elect & Elect Engn, Hong Kong, Hong Kong, Peoples R China.
+E-mail Addresses: zhy9639@hotmail.com; dhill@eee.hku.hk; ke.meng@sydney.edu.au; ronhui@eee.hku.hk
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+Hong Kong RGC Theme Based Research Scheme 	
+T23-407/13N 
+T23-701/14N 
+General Research Fund 	
+17202414 
+National and Natural Science Foundation of China 	
+51277016 
+71401017 
+This work was suported in part by the Hong Kong RGC Theme Based Research Scheme under Grants T23-407/13N and T23-701/14N, in part by the General Research Fund through Project 17202414, and in part by the National and Natural Science Foundation of China under Grants 51277016 and 71401017. Paper no. TPWRS-00342-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 96 of 162
+Title: Large Multi-Machine Power System Simulations Using Multi-Stage Adomian Decomposition
+Author(s): Gurrala, G (Gurrala, Gurunath); Dinesha, DL (Dinesha, Disha Lagadamane); Dimitrovski, A (Dimitrovski, Aleksandar); Sreekanth, P (Sreekanth, Pannala); Simunovic, S (Simunovic, Srdjan); Starke, M (Starke, Michael)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3594-3606  DOI: 10.1109/TPWRS.2017.2655300  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 4
+Usage Count (Since 2013): 4
+Cited Reference Count: 26
+Abstract: Multi-stage Adomian decomposition method (MADM) is a proven semi-analytical approximation solution technique for ordinary differential equations (ODEs), which provides a rapidly convergent series by integrating over multiple time intervals. Applicability of MADM for large nonlinear differential algebraic systems (DAEs) is established for the first time in this paper using the partitioned solution approach. Detailed models of power system components are approximated using MADM models. MADM applicability is verified on 7 widely used test systems ranging from 10 generators, 39 buses to 4092 generators, 13659 buses. Impact of the step size and the number of terms is investigated on the stability and accuracy of the method. An average speed up of 42% and 26% is observed in the solution time of ODEs alone using the MADM when compared to the midpoint-trapezoidal (TrapZ) method and the modified-Euler (ME) method, respectively. MADM accuracy is found to be similar to the ME and comparable to the TrapZ method. MADM stability properties are found to be better than the ME and weaker than the TrapZ method. An average speed up of 13% and 5.85% is observed in the overall solution time using MADM w.r.t. TrapZ and ME methods, respectively.
+Accession Number: WOS:000407854900025
+Language: English
+Document Type: Article
+Author Keywords: Adomian decomposition; power system dynamics; transient stability
+KeyWords Plus: TRANSIENT STABILITY; DIFFERENTIAL-EQUATIONS; INTEGRATION ALGORITHMS; NUMERICAL-INTEGRATION
+Addresses: [Gurrala, Gurunath; Dinesha, Disha Lagadamane] Indian Inst Sci, Dept Elect Engn, Bangalore 560012, Karnataka, India. 
+[Dimitrovski, Aleksandar; Starke, Michael] Oak Ridge Natl Lab, Elect & Elect Syst Res Div, Oak Ridge, TN 37831 USA. 
+[Dimitrovski, Aleksandar; Sreekanth, Pannala; Simunovic, Srdjan; Starke, Michael] Oak Ridge Natl Lab, Computat Sci & Math Div, Oak Ridge, TN 37831 USA.
+Reprint Address: Gurrala, G (reprint author), Indian Inst Sci, Dept Elect Engn, Bangalore 560012, Karnataka, India.
+E-mail Addresses: gurunath@ee.iisc.ernet.in; dimitrovskia@ornl.gov; aleksandar@ieee.org; pannalas@ornl.gov; simunovics@ornl.gov; starkemr@ornl.gov
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 13
+Funding:
+Funding Agency	Grant Number
+Department of Science and Technology, DST Young Scientist Grant, Government of India 	
+DST-YSS/2015/001371 
+This work was supported by the Department of Science and Technology, DST Young Scientist Grant DST-YSS/2015/001371, Government of India. Paper no. TPWRS-00351-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 97 of 162
+Title: A State-Independent Linear Power Flow Model With Accurate Estimation of Voltage Magnitude
+Author(s): Yang, JW (Yang, Jingwei); Zhang, N (Zhang, Ning); Kang, CQ (Kang, Chongqing); Xia, Q (Xia, Qing)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3607-3617  DOI: 10.1109/TPWRS.2016.2638923  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 1
+Total Times Cited: 1
+Usage Count (Last 180 days): 2
+Usage Count (Since 2013): 2
+Cited Reference Count: 20
+Abstract: Linearized power flow models are of great interest in power system studies such as contingency analyses and reliability assessments, especially for large-scale systems. One of the most popular models-the classical DC power flow model-is widely used and praised for its state independence, robustness, and computational efficiency. Despite its advantages, however, the DC power flow model fails to consider reactive power or bus voltage magnitude. This paper closes this gap by proposing a decoupled linearized power flow (DLPF) model with respect to voltage magnitude and phase angle. The model is state independent but is distinguished by its high accuracy in voltage magnitude. Moreover, this paper presents an in-depth analysis of the DLPF model with the purpose of accelerating its computation speed, leading to the fast DLPF (FDLPF) model. The approximation that is applied to obtain the FDLPF model from the DLPF model is justified by a theoretical derivation and numerical tests. The proposed methods are provably accurate and robust for several cases, including radial distribution systems, meshed large-scale transmission systems and ill-conditioned systems. Finally, expressions for sensitivity with regard to MW flow and bus voltage are provided as a potential application.
+Accession Number: WOS:000407854900026
+Language: English
+Document Type: Article
+Author Keywords: Computational efficiency; decoupled load flow; linear power flow model; optimal power flow; reactive power; voltage magnitude
+KeyWords Plus: DISTRIBUTION NETWORKS; REACTIVE POWER; SYSTEMS
+Addresses: [Yang, Jingwei; Zhang, Ning; Kang, Chongqing; Xia, Qing] Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China.
+Reprint Address: Kang, CQ (reprint author), Tsinghua Univ, Dept Elect Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China.
+E-mail Addresses: cqkang@tsinghua.edu.cn
+Author Identifiers:
+Author	ResearcherID Number	ORCID Number
+Zhang, Ning 	 	0000-0003-0366-4657 
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 11
+Funding:
+Funding Agency	Grant Number
+National Key Research and Development Program of China 	
+2016YFB0900102 
+National Science Fund Major International (Regional) Joint Research Project of China 	
+51620105007 
+Tsinghua University Initiative Scientific Research Program 	
+20151080418 
+This work was supported in part by the National Key Research and Development Program of China (No. 2016YFB0900102), the National Science Fund Major International (Regional) Joint Research Project of China (No. 51620105007), and the Tsinghua University Initiative Scientific Research Program (No. 20151080418). Paper no. TPWRS-00380-2016. (Corresponding author: Chongqing Kang.)
+Open Access: No
+Output Date: 2017-11-14
+Record 98 of 162
+Title: Forward and Backward Extended Prony (FBEP) Method for Power System Small-Signal Stability Analysis
+Author(s): Zhao, S (Zhao, Shuang); Loparo, KA (Loparo, Kenneth A.)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3618-3626  DOI: 10.1109/TPWRS.2017.2649879  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 1
+Usage Count (Since 2013): 1
+Cited Reference Count: 15
+Abstract: The performance of the Forward and Backward Extended Prony (FBEP) method on power system small-signal stability analysis is investigated in this paper. The effectiveness of the FBEP method in identifying system eigenvalues from the output signal is validated by experiments on a test system model. Using a four-machine-two-area power system model the estimation of the dominant modes contained in oscillatory signals given by the FBEP method is compared with that given by the SVD-TLS method, Trudnowski's algorithm, and the Prony with stepwise regression method. The multi-signal analysis and sliding window analysis using the FBEP method are also studied.
+Accession Number: WOS:000407854900027
+Language: English
+Document Type: Article
+Author Keywords: Eigenvalue; FBEP method; low-frequency oscillation; power system; Prony
+KeyWords Plus: SINGULAR-VALUE DECOMPOSITION; LINEAR PREDICTION; MODELS
+Addresses: [Zhao, Shuang; Loparo, Kenneth A.] Case Western Reserve Univ, Dept Elect Engn & Comp Sci, Cleveland, OH 44106 USA.
+Reprint Address: Zhao, S (reprint author), Case Western Reserve Univ, Dept Elect Engn & Comp Sci, Cleveland, OH 44106 USA.
+E-mail Addresses: sxz119@case.edu; kenneth.loparo@case.edu
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 9
+Funding:
+Funding Agency	Grant Number
+Department of Energy 	
+DE-EE0005367 
+This work was supported in part by the Department of Energy under Contract DE-EE0005367. Paper no. TPWRS-00384-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 99 of 162
+Title: Design of Modified Droop Controller for Frequency Support in Microgrid Using Fleet of Electric Vehicles
+Author(s): Rana, R (Rana, Rubi); Singh, M (Singh, Mukesh); Mishra, S (Mishra, S.)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3627-3636  DOI: 10.1109/TPWRS.2017.2651906  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 1
+Usage Count (Since 2013): 1
+Cited Reference Count: 30
+Abstract: Droop control has been extensively used by academia and industry for managing frequency fluctuations at microgrid (MG). This controller generates series of reference signals to different distributed energy sources (DES) such as diesel generator, PV, and wind system based on their respective maximum capacities. However, the combination of inertial and noninertial DES leads to frequency fluctuations at MG. Therefore, this paper proposes a novel frequency support strategy by controlling the operation of DES and controllable loads, i.e., electric vehicles (EVs). Moreover, fleet of EVs batteries maximum capacity depends upon constraints, such as state of charge (SoC), random arrival, and departure patterns. Hence, to accomodate EVs' batteries with droop controller, it has been enhanced with communication links and feedback mechanism and referred as modified droop controller (MDC). This MDC would be now able to dispatch reference signals to both DES and EVs. However, for meeting reference signal given to fleet of EVs, an aggregator (AG) is proposed. AG can alter the charging and discharging rates of EVs' thereby satisfying EVs' needs in terms of battery's SoC. Extensive simulations have been done using the proposed scheme on data available from Santa Rita Jails' MG.
+Accession Number: WOS:000407854900028
+Language: English
+Document Type: Article
+Author Keywords: Charging station (CS); distributed energy sources (DES); electric vehicles (EVs); microgrid (MG) andmodified droop controller (MDC)
+KeyWords Plus: ENERGY MANAGEMENT; AUTONOMOUS OPERATION; RENEWABLE ENERGY; STORAGE; GENERATION; INVERTERS
+Addresses: [Rana, Rubi; Mishra, S.] Indian Inst Technol Delhi, Dept Elect Engn, New Delhi 110016, India. 
+[Singh, Mukesh] Thapar Univ, Dept Elect & Instrumentat Engn, Patiala 147004, Punjab, India.
+Reprint Address: Rana, R (reprint author), Indian Inst Technol Delhi, Dept Elect Engn, New Delhi 110016, India.
+E-mail Addresses: ru-biprs@gmail.com; mukesh.singh@thapar.edu; sukumar@ee.iitd.ac.in
+Author Identifiers:
+Author	ResearcherID Number	ORCID Number
+Mishra, Sukumar 	J-7580-2012 	 
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 10
+Funding:
+Funding Agency	Grant Number
+Thapar University, Patiala, India 	 
+Department of Science and Technology, India 	
+DST/TM/CERI/D48(G) 
+This work was supported in part by the seed grant scheme of Thapar University, Patiala, India, and in part by the Department of Science and Technology, India, under Grant DST/TM/CERI/D48(G). Paper no. TPWRS-00493-2016.
+Open Access: No
+Output Date: 2017-11-14
+Record 100 of 162
+Title: Chance-Constrained Two-Stage Unit Commitment Under Uncertain Load and Wind Power Output Using Bilinear Benders Decomposition
+Author(s): Zhang, Y (Zhang, Yao); Wang, JX (Wang, Jianxue); Zeng, B (Zeng, Bo); Hu, ZC (Hu, Zechun)
+Source: IEEE TRANSACTIONS ON POWER SYSTEMS  Volume: 32  Issue: 5  Pages: 3637-3647  DOI: 10.1109/TPWRS.2017.2655078  Published: SEP 2017  
+Times Cited in Web of Science Core Collection: 0
+Total Times Cited: 0
+Usage Count (Last 180 days): 6
+Usage Count (Since 2013): 6
+Cited Reference Count: 49
+Abstract: In this paper, we study unit commitment (UC) problems considering the uncertainty of load and wind power generation. UC problem is formulated as a chance-constrained two-stage stochastic programming problem where the chance constraint is used to restrict the probability of load imbalance. In addition to the conventional mixed integer linear programming formulation using Big-M, we present the bilinear mixed integer formulation of chance constraint, and then derive its linear counterpart using the McCormick linearization method. Then, we develop a bilinear variant of the Benders decomposition method, which is an easy-to-implement algorithm, to solve the resulting large-scale linear counterpart. Our results on typical IEEE systems demonstrate that (i) the bilinear mixed integer programming formulation is stronger than the conventional one and (ii) the proposed Benders decomposition algorithm is generally an order of magnitude faster than using a professional solver to directly compute both linear and bilinear chance-constrained UC models.
+Accession Number: WOS:000407854900029
+Language: English
+Document Type: Article
+Author Keywords: Benders decomposition; bilinear formulation; chance constraint; stochastic programming; unit commitment (UC); wind power
+KeyWords Plus: ROBUST OPTIMIZATION; STOCHASTIC SECURITY; THERMAL UNIT; GENERATION; MODEL; FLOW
+Addresses: [Zhang, Yao; Wang, Jianxue] Xi An Jiao Tong Univ, Sch Elect Engn, Xian 710049, Shaanxi, Peoples R China. 
+[Zeng, Bo] Univ Pittsburgh, Dept Ind Engn, Pittsburgh, PA 15260 USA. 
+[Hu, Zechun] Tsinghua Univ, Dept Elect Engn, Beijing 100084, Peoples R China.
+Reprint Address: Zhang, Y (reprint author), Xi An Jiao Tong Univ, Sch Elect Engn, Xian 710049, Shaanxi, Peoples R China.
+E-mail Addresses: zy.3110161019@stu.xjtu.edu.cn; jxwang@mail.xjtu.edu.cn; bzeng@pitt.edu; zechhu@tsinghua.edu.cn
+Author Identifiers:
+Author	ResearcherID Number	ORCID Number
+Zhang, Yao 	 	0000-0002-2106-1350 
+Publisher: IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+Publisher Address: 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+Web of Science Categories: Engineering, Electrical & Electronic
+Research Areas: Engineering
+IDS Number: FD9PP
+ISSN: 0885-8950
+eISSN: 1558-0679
+29-char Source Abbrev.: IEEE T POWER SYST
+ISO Source Abbrev.: IEEE Trans. Power Syst.
+Source Item Page Count: 11
+Funding:
+Funding Agency	Grant Number
+National Natural Science Foundation of China 	
+51277141 
+This work was supported in part by the National Natural Science Foundation of China (51277141). Paper no. TPWRS-00508-2016.
+Open Access: No
+Output Date: 2017-11-14
+Close	Web of Science
+Page 2 (Records 51 -- 100)
+Previous Page [ 1 | 2 | 3 | 4 ] =
+Print this Page
+© 2017  CLARIVATE ANALYTICS TERMS OF USE PRIVACY POLICY FEEDBACK

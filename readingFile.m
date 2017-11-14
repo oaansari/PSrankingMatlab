@@ -1,0 +1,1 @@
+file1 = fopen('1.txt','r');
